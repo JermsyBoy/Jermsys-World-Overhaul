@@ -87,10 +87,7 @@
       "minecraft:glow_lichen"
     ],
     [
-      "minecraft:freeze_top_layer",
-      "jermsy:layer/first",
-      "jermsy:layer/second",
-      "jermsy:layer/third"
+      "minecraft:freeze_top_layer"
     ]
   ],
   "spawners": {
