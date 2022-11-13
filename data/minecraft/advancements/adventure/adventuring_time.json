@@ -832,6 +832,262 @@
         ]
       },
       "trigger": "minecraft:location"
+    },
+    "jermsy:birch_river": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "jermsy:birch_river"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    },
+    "jermsy:cold_river": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "jermsy:birch_river"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    },
+    "jermsy:dark_river": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "jermsy:dark_river"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    },
+    "jermsy:desert_hills": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "jermsy:desert_hills"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    },
+    "jermsy:flower_fields": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "jermsy:flower_fields"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    },
+    "jermsy:forest_river": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "jermsy:forest_river"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    },
+    "jermsy:gravelly_beach": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "jermsy:gravelly_beach"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    },
+    "jermsy:humid_river": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "jermsy:humid_river"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    },
+    "jermsy:rainforest": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "jermsy:rainforest"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    },
+    "jermsy:red_desert": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "jermsy:red_desert"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    },
+    "jermsy:seasonal_forest": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "jermsy:seasonal_forest"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    },
+    "jermsy:seasonal_river": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "jermsy:seasonal_river"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    },
+    "jermsy:shrubland": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "jermsy:shrubland"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    },
+    "jermsy:sparse_forest": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "jermsy:sparse_forest"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    },
+    "jermsy:torrid_river": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "jermsy:torrid_river"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    },
+    "jermsy:tundra": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "jermsy:tundra"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
     }
   },
   "display": {
@@ -1006,6 +1262,54 @@
     ],
     [
       "minecraft:deep_dark"
+    ],
+    [
+      "jermsy:birch_river"
+    ],
+    [
+      "jermsy:cold_river"
+    ],
+    [
+      "jermsy:dark_river"
+    ],
+    [
+      "jermsy:desert_hills"
+    ],
+    [
+      "jermsy:flower_fields"
+    ],
+    [
+      "jermsy:forest_river"
+    ],
+    [
+      "jermsy:gravelly_beach"
+    ],
+    [
+      "jermsy:humid_river"
+    ],
+    [
+      "jermsy:rainforest"
+    ],
+    [
+      "jermsy:red_desert"
+    ],
+    [
+      "jermsy:seasonal_forest"
+    ],
+    [
+      "jermsy:seasonal_river"
+    ],
+    [
+      "jermsy:shrubland"
+    ],
+    [
+      "jermsy:sparse_forest"
+    ],
+    [
+      "jermsy:torrid_river"
+    ],
+    [
+      "jermsy:tundra"
     ]
   ],
   "rewards": {
