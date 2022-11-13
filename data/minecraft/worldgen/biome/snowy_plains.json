@@ -81,7 +81,10 @@
       "minecraft:patch_pumpkin"
     ],
     [
-      "minecraft:freeze_top_layer"
+      "minecraft:freeze_top_layer",
+      "jermsy:layer/first",
+      "jermsy:layer/second",
+      "jermsy:layer/third"
     ]
   ],
   "creature_spawn_probability": 0.07,
