@@ -1,0 +1,71 @@
+{
+  "config": {
+    "ignore_vines": true,
+    "minimum_size": {
+      "type": "minecraft:two_layers_feature_size",
+      "limit": 1,
+      "lower_size": 0,
+      "upper_size": 1
+    },
+    "dirt_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:dirt"
+      }
+    },
+    "trunk_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:birch_log",
+        "Properties": {
+          "axis": "y"
+        }
+      }
+    },
+    "foliage_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:birch_leaves",
+        "Properties": {
+          "persistent": "false",
+          "distance": "7"
+        }
+      }
+    },
+    "foliage_placer": {
+      "type": "minecraft:blob_foliage_placer",
+      "radius": 2,
+      "offset": 2,
+      "height": 2
+    },
+    "trunk_placer": {
+      "extra_branch_steps": {
+        "type": "minecraft:uniform",
+        "value": {
+          "min_inclusive": 1,
+          "max_inclusive": 4
+        }
+      },
+      "place_branch_per_log_probability": 0.5,
+      "extra_branch_length": {
+        "type": "minecraft:uniform",
+        "value": {
+          "min_inclusive": 0,
+          "max_inclusive": 1
+        }
+      },
+      "can_grow_through": "#minecraft:mangrove_logs_can_grow_through",
+      "base_height": 5,
+      "height_rand_a": 4,
+      "height_rand_b": 8,
+      "type": "minecraft:upwards_branching_trunk_placer"
+    },
+    "decorators": [
+      {
+        "type": "minecraft:beehive",
+        "probability": 0.002
+      }
+    ]
+  },
+  "type": "minecraft:tree"
+}
