@@ -1,9 +1,9 @@
 {
-  "feature": "minecraft:ore_dirt",
+  "feature": "minecraft:ore_gravel",
   "placement": [
     {
       "type": "minecraft:count",
-      "count": 7
+      "count": 14
     },
     {
       "type": "minecraft:in_square"
