@@ -1986,7 +1986,8 @@
                         {
                           "if_true": {
                             "biome_is": [
-                              "minecraft:ice_spikes"
+                              "minecraft:ice_spikes",
+                              "minecraft:snowy_plains"
                             ],
                             "type": "minecraft:biome"
                           },
