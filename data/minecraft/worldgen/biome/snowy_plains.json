@@ -74,7 +74,7 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:trees_snowy",
+      "jermsy:trees_snowy_plains",
       "minecraft:flower_default",
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
