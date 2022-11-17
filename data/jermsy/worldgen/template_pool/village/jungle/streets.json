@@ -4,7 +4,7 @@
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
         "location": "minecraft:village/savanna/streets/corner_01",
-        "processors": "minecraft:street_savanna",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -13,7 +13,7 @@
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
         "location": "minecraft:village/savanna/streets/corner_03",
-        "processors": "minecraft:street_savanna",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -21,8 +21,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/straight_02",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/straight_02",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 4
@@ -30,8 +30,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/straight_04",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/straight_04",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 7
@@ -39,8 +39,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/straight_05",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/straight_05",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 3
@@ -48,8 +48,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/straight_06",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/straight_06",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 4
@@ -57,8 +57,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/straight_08",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/straight_08",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 4
@@ -66,8 +66,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/straight_09",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/straight_09",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 4
@@ -75,8 +75,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/straight_10",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/straight_10",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 4
@@ -84,8 +84,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/straight_11",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/straight_11",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 4
@@ -93,8 +93,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/crossroad_02",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/crossroad_02",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 1
@@ -102,8 +102,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/crossroad_03",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/crossroad_03",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -111,8 +111,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/crossroad_04",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/crossroad_04",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -120,8 +120,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/crossroad_05",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/crossroad_05",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -129,8 +129,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/crossroad_06",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/crossroad_06",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -138,8 +138,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/crossroad_07",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/crossroad_07",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -147,8 +147,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/split_01",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/split_01",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -156,8 +156,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/split_02",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/split_02",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -165,12 +165,12 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/turn_01",
-        "processors": "minecraft:street_savanna",
+        "location": "jermsy:village/jungle/streets/turn_01",
+        "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
       "weight": 3
     }
   ],
-  "fallback": "minecraft:village/savanna/terminators"
+  "fallback": "jermsy:village/jungle/terminators"
 }
