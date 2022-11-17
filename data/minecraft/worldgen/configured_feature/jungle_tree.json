@@ -1,12 +1,17 @@
 {
+  "type": "minecraft:tree",
   "config": {
     "decorators": [
+      {
+        "type": "minecraft:cocoa",
+        "probability": 0.2
+      },
       {
         "type": "minecraft:trunk_vine"
       },
       {
-        "probability": 0.25,
-        "type": "minecraft:leave_vine"
+        "type": "minecraft:leave_vine",
+        "probability": 0.25
       }
     ],
     "ignore_vines": true,
@@ -55,6 +60,5 @@
       "height_rand_b": 7,
       "type": "minecraft:straight_trunk_placer"
     }
-  },
-  "type": "minecraft:tree"
+  }
 }
