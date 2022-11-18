@@ -47,7 +47,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "jermsy:village/jungle/zombie/town_centers/savanna_meeting_point_1",
+        "location": "jermsy:village/jungle/zombie/town_centers/jungle_meeting_point_1",
         "processors": "minecraft:zombie_savanna",
         "projection": "rigid"
       },
@@ -56,7 +56,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "jermsy:village/jungle/zombie/town_centers/savanna_meeting_point_2",
+        "location": "jermsy:village/jungle/zombie/town_centers/jungle_meeting_point_2",
         "processors": "minecraft:zombie_savanna",
         "projection": "rigid"
       },
@@ -65,7 +65,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "jermsy:village/jungle/zombie/town_centers/savanna_meeting_point_3",
+        "location": "jermsy:village/jungle/zombie/town_centers/jungle_meeting_point_3",
         "processors": "minecraft:zombie_savanna",
         "projection": "rigid"
       },
@@ -74,7 +74,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "jermsy:village/jungle/zombie/town_centers/savanna_meeting_point_4",
+        "location": "jermsy:village/jungle/zombie/town_centers/jungle_meeting_point_4",
         "processors": "minecraft:zombie_savanna",
         "projection": "rigid"
       },
