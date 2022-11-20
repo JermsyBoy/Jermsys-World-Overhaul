@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/corner_01",
+        "location": "jermsy:village/jungle/streets/corner_01",
         "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },
@@ -12,7 +12,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/streets/corner_03",
+        "location": "jermsy:village/jungle/streets/corner_03",
         "processors": "jermsy:street_jungle",
         "projection": "terrain_matching"
       },

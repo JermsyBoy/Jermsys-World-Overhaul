@@ -179,18 +179,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/houses/savanna_weaponsmith_1",
-        "processors": {
-          "processors": []
-        },
-        "projection": "rigid"
-      },
-      "weight": 2
-    },
-    {
-      "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "minecraft:village/savanna/houses/savanna_weaponsmith_2",
+        "location": "jermsy:village/jungle/houses/jungle_weaponsmith_1",
         "processors": {
           "processors": []
         },
