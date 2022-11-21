@@ -22,7 +22,8 @@
   },
   "features": [
     [
-      "jermsy:boulders"
+      "jermsy:boulders",
+      "jermsy:stone_cliff"
 	],
     [
       "minecraft:lake_lava_underground",

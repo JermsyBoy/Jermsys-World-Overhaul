@@ -1371,6 +1371,7 @@
                             "biome_is": [
                               "jermsy:tundra",
                               "jermsy:seasonal_forest",
+                              "jermsy:shrubland",
                               "minecraft:plains",
                               "minecraft:sunflower_plains",
                               "minecraft:taiga",
