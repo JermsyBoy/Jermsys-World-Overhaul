@@ -1,0 +1,33 @@
+{
+  "name": "jermsy:plains_rock",
+  "fallback": "minecraft:empty",
+  "elements": [
+	{
+		"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "jermsy:plains_rock_1"
+		},
+		"weight": 1
+	},
+	{
+		"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "jermsy:plains_rock_2"
+		},
+		"weight": 1
+	},
+	{
+		"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "minecraft:empty",
+				"location": "jermsy:plains_rock_3"
+		},
+		"weight": 1
+	}
+	]
+}
