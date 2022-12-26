@@ -21,7 +21,9 @@
     ]
   },
   "features": [
-    [],
+    [
+      "jermsy:stone_cliff"
+	],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"
@@ -72,7 +74,7 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:trees_snowy",
+      "jermsy:trees_snowy_plains",
       "minecraft:flower_default",
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",
