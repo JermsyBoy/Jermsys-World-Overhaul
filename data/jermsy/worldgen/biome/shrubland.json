@@ -22,8 +22,7 @@
   },
   "features": [
     [
-      "jermsy:boulders",
-      "jermsy:stone_cliff"
+      "jermsy:boulders"
 	],
     [
       "minecraft:lake_lava_underground",
@@ -182,7 +181,7 @@
     "misc": []
   },
   "spawn_costs": {},
-  "precipitation": "none",
+  "has_precipitation": false,
   "temperature": 2.0,
   "downfall": 0.0,
   "category": "savanna"
