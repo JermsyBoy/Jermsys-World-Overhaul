@@ -76,6 +76,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "jermsy:spruce_fallen",
       "minecraft:patch_large_fern",
       "minecraft:trees_taiga",
       "minecraft:flower_default",
@@ -207,7 +208,7 @@
     "misc": []
   },
   "spawn_costs": {},
-  "has_precipitation": true,
+  "precipitation": "rain",
   "temperature": 0.25,
   "downfall": 0.8,
   "category": "taiga"

@@ -22,7 +22,8 @@
   },
   "features": [
     [
-      "jermsy:boulders"
+      "jermsy:boulders",
+      "jermsy:stone_cliff"
 	],
     [
       "minecraft:lake_lava_underground",
@@ -70,6 +71,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "jermsy:oak_fallen",
       "jermsy:trees_seasonal",
       "minecraft:flower_warm",
       "minecraft:patch_grass_jungle",
@@ -151,12 +153,6 @@
         "weight": 8,
         "minCount": 2,
         "maxCount": 4
-      },
-      {
-        "type": "minecraft:parrot",
-        "weight": 60,
-        "minCount": 4,
-        "maxCount": 6
       }
     ],
     "ambient": [],
@@ -174,7 +170,7 @@
     "misc": []
   },
   "spawn_costs": {},
-  "has_precipitation": true,
+  "precipitation": "rain",
   "temperature": 0.95,
   "downfall": 0.8,
   "category": "forest"

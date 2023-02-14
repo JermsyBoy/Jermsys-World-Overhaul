@@ -73,6 +73,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "jermsy:oak_fallen",
       "minecraft:forest_flowers",
       "jermsy:trees_sparse_forest",
       "minecraft:flower_default",
@@ -191,7 +192,7 @@
     "misc": []
   },
   "spawn_costs": {},
-  "has_precipitation": true,
+  "precipitation": "rain",
   "temperature": 0.7,
   "downfall": 0.8,
   "category": "forest"

@@ -1,13 +1,13 @@
 {
   "placement": {
     "type": "minecraft:random_spread",
-    "salt": 14357619,
-    "separation": 8,
-    "spacing": 9
+    "salt": 14357617,
+    "separation": 16,
+    "spacing": 48
   },
   "structures": [
     {
-      "structure": "jermsy:plains_rock",
+      "structure": "jermsy:desert_temple",
       "weight": 1
     }
   ]

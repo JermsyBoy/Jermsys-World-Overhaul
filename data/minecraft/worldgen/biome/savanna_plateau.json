@@ -21,7 +21,7 @@
   "features": [
     [
       "jermsy:savanna_terracotta",
-      "jermsy:savanna_surface"
+      "jermsy:savanna_plateau_surface"
 	],
     [
       "minecraft:lake_lava_underground",
@@ -203,7 +203,7 @@
     "misc": []
   },
   "spawn_costs": {},
-  "has_precipitation": false,
+  "precipitation": "none",
   "temperature": 2.0,
   "downfall": 0.0,
   "category": "savanna"

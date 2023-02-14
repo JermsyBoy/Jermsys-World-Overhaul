@@ -21,7 +21,8 @@
     ]
   },
   "features": [
-    [],
+    [
+	],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"
@@ -210,7 +211,7 @@
     "misc": []
   },
   "spawn_costs": {},
-  "has_precipitation": true,
+  "precipitation": "rain",
   "temperature": 0.95,
   "downfall": 0.9,
   "category": "jungle"

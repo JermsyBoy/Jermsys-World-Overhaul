@@ -157,7 +157,7 @@
     "misc": []
   },
   "spawn_costs": {},
-  "has_precipitation": true,
+  "precipitation": "snow",
   "temperature": 0.05,
   "downfall": 0.3,
   "category": "beach"

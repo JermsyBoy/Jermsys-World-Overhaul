@@ -1,5 +1,5 @@
 {
-  "has_precipitation": true,
+  "precipitation": "rain",
   "temperature": 0.6,
   "downfall": 0.6,
   "effects": {
@@ -83,6 +83,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "jermsy:birch_fallen",
       "jermsy:birch_forest_flowers",
       "minecraft:birch_tall",
       "jermsy:flower_birch",
