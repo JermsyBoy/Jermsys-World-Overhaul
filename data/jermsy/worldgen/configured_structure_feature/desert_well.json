@@ -1,7 +1,0 @@
-{
-  "config": {
-    "start_pool": "jermsy:desert_well",
-    "size": 6
-  },
-  "type": "minecraft:village"
-}

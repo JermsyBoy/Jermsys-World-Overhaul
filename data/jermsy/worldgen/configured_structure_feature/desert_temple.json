@@ -1,7 +1,0 @@
-{
-  "config": {
-    "start_pool": "jermsy:desert_temple_top",
-    "size": 6
-  },
-  "type": "minecraft:village"
-}
