@@ -29,6 +29,7 @@
   },
   "features": [
     [
+      "jermsy:boulders",
       "jermsy:stone_cliff"
 	],
     [

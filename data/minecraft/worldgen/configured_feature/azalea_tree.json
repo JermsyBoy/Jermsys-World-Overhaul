@@ -1,19 +1,22 @@
 {
+  "type": "minecraft:tree",
   "config": {
     "decorators": [],
-    "ignore_vines": false,
-    "force_dirt": true,
     "dirt_provider": {
+      "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "minecraft:rooted_dirt"
-      },
-      "type": "minecraft:simple_state_provider"
+        "Name": "minecraft:dirt"
+      }
     },
-    "minimum_size": {
-      "limit": 1,
-      "lower_size": 0,
-      "upper_size": 1,
-      "type": "minecraft:two_layers_feature_size"
+    "foliage_placer": {
+      "type": "minecraft:cherry_foliage_placer",
+      "corner_hole_chance": 0.25,
+      "hanging_leaves_chance": 0.16666667,
+      "hanging_leaves_extension_chance": 0.33333334,
+      "height": 5,
+      "offset": 0,
+      "radius": 4,
+      "wide_bottom_layer_hole_chance": 0.25
     },
     "foliage_provider": {
       "entries": [
@@ -42,36 +45,63 @@
       ],
       "type": "minecraft:weighted_state_provider"
     },
-    "foliage_placer": {
-      "radius": 3,
-      "offset": 0,
-      "foliage_height": 2,
-      "leaf_placement_attempts": 50,
-      "type": "minecraft:random_spread_foliage_placer"
-    },
-    "trunk_provider": {
-      "state": {
-        "Properties": {
-          "axis": "y"
-        },
-        "Name": "minecraft:oak_log"
-      },
-      "type": "minecraft:simple_state_provider"
+    "force_dirt": false,
+    "ignore_vines": true,
+    "minimum_size": {
+      "type": "minecraft:two_layers_feature_size",
+      "limit": 1,
+      "lower_size": 0,
+      "upper_size": 2
     },
     "trunk_placer": {
-      "height_rand_b": 0,
-      "min_height_for_leaves": 3,
-      "bend_length": {
+      "type": "minecraft:cherry_trunk_placer",
+      "base_height": 7,
+      "branch_count": {
+        "type": "minecraft:weighted_list",
+        "distribution": [
+          {
+            "data": 1,
+            "weight": 1
+          },
+          {
+            "data": 2,
+            "weight": 1
+          },
+          {
+            "data": 3,
+            "weight": 1
+          }
+        ]
+      },
+      "branch_end_offset_from_top": {
         "type": "minecraft:uniform",
         "value": {
-          "min_inclusive": 1,
-          "max_inclusive": 2
+          "max_inclusive": 0,
+          "min_inclusive": -1
         }
       },
-      "base_height": 4,
-      "height_rand_a": 2,
-      "type": "minecraft:bending_trunk_placer"
+      "branch_horizontal_length": {
+        "type": "minecraft:uniform",
+        "value": {
+          "max_inclusive": 4,
+          "min_inclusive": 2
+        }
+      },
+      "branch_start_offset_from_top": {
+        "max_inclusive": -3,
+        "min_inclusive": -4
+      },
+      "height_rand_a": 1,
+      "height_rand_b": 0
+    },
+    "trunk_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:oak_log",
+        "Properties": {
+          "axis": "y"
+        }
+      }
     }
-  },
-  "type": "minecraft:tree"
+  }
 }
