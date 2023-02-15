@@ -151,12 +151,6 @@
         "weight": 8,
         "minCount": 2,
         "maxCount": 4
-      },
-      {
-        "type": "minecraft:parrot",
-        "weight": 60,
-        "minCount": 4,
-        "maxCount": 6
       }
     ],
     "ambient": [],
