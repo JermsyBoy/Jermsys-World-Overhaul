@@ -29,6 +29,7 @@
   },
   "features": [
     [
+      "jermsy:cherry_grove_surface",
       "jermsy:mossy_boulders",
       "jermsy:stone_cliff"
 	],
@@ -88,6 +89,7 @@
       "minecraft:patch_tall_grass_2",
       "minecraft:patch_grass_plain",
       "minecraft:flower_cherry",
+      "jermsy:cherry_grove_bush",
       "minecraft:trees_cherry"
     ],
     [
@@ -124,6 +126,12 @@
         "maxCount": 4,
         "minCount": 2,
         "weight": 2
+      },
+      {
+        "type": "minecraft:fox",
+        "weight": 6,
+        "minCount": 2,
+        "maxCount": 4
       }
     ],
     "misc": [],
