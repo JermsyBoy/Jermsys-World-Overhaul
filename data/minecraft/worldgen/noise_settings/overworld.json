@@ -1371,6 +1371,7 @@
                             "biome_is": [
                               "jermsy:tundra",
                               "jermsy:seasonal_forest",
+                              "jermsy:shrubland",
                               "minecraft:plains",
                               "minecraft:sunflower_plains",
                               "minecraft:taiga",
@@ -1380,7 +1381,8 @@
                               "jermsy:sparse_forest",
                               "minecraft:birch_forest",
                               "minecraft:old_growth_birch_forest",
-                              "minecraft:dark_forest"
+                              "minecraft:dark_forest",
+                              "minecraft:cherry_grove"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -1987,7 +1989,8 @@
                         {
                           "if_true": {
                             "biome_is": [
-                              "minecraft:ice_spikes"
+                              "minecraft:ice_spikes",
+                              "minecraft:snowy_plains"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2337,6 +2340,7 @@
                             "biome_is": [
                               "jermsy:tundra",
                               "jermsy:seasonal_forest",
+                              "jermsy:shrubland",
                               "minecraft:plains",
                               "minecraft:sunflower_plains",
                               "minecraft:taiga",
@@ -2346,7 +2350,8 @@
                               "jermsy:sparse_forest",
                               "minecraft:birch_forest",
                               "minecraft:old_growth_birch_forest",
-                              "minecraft:dark_forest"
+                              "minecraft:dark_forest",
+                              "minecraft:cherry_grove"
                             ],
                             "type": "minecraft:biome"
                           },

@@ -56,13 +56,13 @@
           "Name": "minecraft:grass_block"
         },
         {
-          "Name": "minecraft:coarse_dirt"
+          "Name": "minecraft:grass_block"
         },
         {
-          "Name": "minecraft:packed_mud"
+          "Name": "minecraft:grass_block"
         },
         {
-          "Name": "minecraft:packed_mud"
+          "Name": "minecraft:podzol"
         },
         {
           "Name": "minecraft:coarse_dirt"

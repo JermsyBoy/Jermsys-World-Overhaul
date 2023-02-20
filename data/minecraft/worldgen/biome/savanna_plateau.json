@@ -21,7 +21,7 @@
   "features": [
     [
       "jermsy:savanna_terracotta",
-      "jermsy:savanna_plateau_surface"
+      "jermsy:savanna_surface"
 	],
     [
       "minecraft:lake_lava_underground",
