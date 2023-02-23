@@ -1,0 +1,19 @@
+{
+  "config": {
+    "features": [
+      {
+        "feature": "jermsy:tundra_spruce",
+        "chance": 0.1
+      },
+      {
+        "feature": "jermsy:wooded_tundra_bush",
+        "chance": 0.95
+      }
+    ],
+    "default": {
+      "feature": "jermsy:tundra_spruce",
+      "placement": []
+    }
+  },
+  "type": "minecraft:random_selector"
+}
