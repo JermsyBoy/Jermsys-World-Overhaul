@@ -23,7 +23,8 @@
   "features": [
     [
       "jermsy:boulders",
-      "jermsy:stone_cliff"
+      "jermsy:stone_cliff",
+      "jermsy:snow_patch"
 	],
     [
       "minecraft:lake_lava_underground"
@@ -80,7 +81,6 @@
     ],
     [
       "minecraft:freeze_top_layer",
-      "jermsy:snow_patch",
       "jermsy:snowy_grass"
     ]
   ],
@@ -203,7 +203,7 @@
   },
   "spawn_costs": {},
   "has_precipitation": true,
-  "temperature": 0.15,
-  "downfall": 0.3,
+  "temperature": 0.25,
+  "downfall": 0.8,
   "category": "icy"
 }
