@@ -1,5 +1,4 @@
 {
-  "has_precipitation": false,
   "carvers": {
     "air": [
       "minecraft:cave",
@@ -93,6 +92,7 @@
       "minecraft:freeze_top_layer"
     ]
   ],
+  "has_precipitation": true,
   "spawn_costs": {},
   "spawners": {
     "ambient": [

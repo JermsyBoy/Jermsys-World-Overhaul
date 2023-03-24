@@ -15,10 +15,10 @@
       "max_delay": 24000,
       "replace_current_music": false
     },
-    "sky_color": 8560639,
-    "fog_color": 12638463,
-    "water_color": 4159204,
-    "water_fog_color": 329011
+    "sky_color": 12702441,
+    "fog_color": 15134448,
+    "water_color": 2648471,
+    "water_fog_color": 1851230,
   },
   "carvers": {
     "air": [

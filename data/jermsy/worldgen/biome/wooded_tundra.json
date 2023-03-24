@@ -6,12 +6,12 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-    "sky_color": 7907327,
-    "fog_color": 12638463,
-    "water_color": 4361434,
-    "water_fog_color": 3243184,
-    "grass_color": 9485144,
-    "foliage_color": 7776556
+    "sky_color": 11849459,
+    "fog_color": 12836586,
+    "water_color": 2648471,
+    "water_fog_color": 1851230,
+    "grass_color": 14403952,
+    "foliage_color": 11562304
   },
   "carvers": {
     "air": [
@@ -22,11 +22,12 @@
   },
   "features": [
     [
-      "jermsy:stone_cliff"
-	  ],
+      "jermsy:boulders",
+      "jermsy:stone_cliff",
+      "jermsy:snow_patch"
+	],
     [
-      "minecraft:lake_lava_underground",
-      "minecraft:lake_lava_surface"
+      "minecraft:lake_lava_underground"
     ],
     [
       "minecraft:amethyst_geode"
@@ -40,11 +41,6 @@
     [
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
-      "minecraft:ore_granite_upper",
-      "minecraft:ore_granite_lower",
-      "minecraft:ore_diorite_upper",
-      "minecraft:ore_diorite_lower",
-      "minecraft:ore_andesite_upper",
       "minecraft:ore_andesite_lower",
       "minecraft:ore_tuff",
       "minecraft:ore_coal_upper",
@@ -74,19 +70,21 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:patch_tall_grass_2",
-      "minecraft:trees_plains",
-      "minecraft:flower_plains",
-      "minecraft:patch_grass_plain",
+      "jermsy:trees_wooded_tundra",
+      "jermsy:flower_tundra",
+      "jermsy:patch_grass_shrubland",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "minecraft:patch_pumpkin",
+      "minecraft:patch_berry_common"
     ],
     [
-      "minecraft:freeze_top_layer"
+      "minecraft:freeze_top_layer",
+      "jermsy:snowy_grass"
     ]
   ],
+  "creature_spawn_probability": 0.07,
   "spawners": {
     "monster": [
       {
@@ -141,18 +139,12 @@
     "creature": [
       {
         "type": "minecraft:sheep",
-        "weight": 12,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:pig",
         "weight": 10,
         "minCount": 4,
         "maxCount": 4
       },
       {
-        "type": "minecraft:chicken",
+        "type": "minecraft:goat",
         "weight": 10,
         "minCount": 4,
         "maxCount": 4
@@ -164,16 +156,28 @@
         "maxCount": 4
       },
       {
-        "type": "minecraft:horse",
-        "weight": 5,
-        "minCount": 2,
-        "maxCount": 6
+        "type": "minecraft:wolf",
+        "weight": 8,
+        "minCount": 4,
+        "maxCount": 4
       },
       {
-        "type": "minecraft:donkey",
+        "type": "minecraft:rabbit",
+        "weight": 4,
+        "minCount": 2,
+        "maxCount": 3
+      },
+      {
+        "type": "minecraft:fox",
+        "weight": 8,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:polar_bear",
         "weight": 1,
         "minCount": 1,
-        "maxCount": 3
+        "maxCount": 2
       }
     ],
     "ambient": [
@@ -199,7 +203,7 @@
   },
   "spawn_costs": {},
   "has_precipitation": true,
-  "temperature": 0.8,
-  "downfall": 0.4,
-  "category": "plains"
+  "temperature": 0.25,
+  "downfall": 0.8,
+  "category": "icy"
 }

@@ -1,13 +1,13 @@
 {
   "placement": {
     "type": "minecraft:random_spread",
-    "salt": 14357619,
+    "salt": 14357618,
     "separation": 8,
-    "spacing": 9
+    "spacing": 32
   },
   "structures": [
     {
-      "structure": "jermsy:plains_rock",
+      "structure": "jermsy:igloo",
       "weight": 1
     }
   ]
