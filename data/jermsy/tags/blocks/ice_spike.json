@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "packed_ice",
+    "grass_block",
+    "snow_block",
+    "snow"
+  ]
+}
