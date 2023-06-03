@@ -1370,8 +1370,12 @@
                           "if_true": {
                             "biome_is": [
                               "jermsy:tundra",
+                              "jermsy:wooded_tundra",
                               "jermsy:seasonal_forest",
                               "minecraft:plains",
+                              "minecraft:meadow",
+                              "minecraft:snowy_plains",
+                              "minecraft:snowy_taiga",
                               "minecraft:sunflower_plains",
                               "minecraft:taiga",
                               "minecraft:forest",
@@ -1987,8 +1991,7 @@
                         {
                           "if_true": {
                             "biome_is": [
-                              "minecraft:ice_spikes",
-                              "minecraft:snowy_plains"
+                              "minecraft:ice_spikes"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2337,9 +2340,13 @@
                           "if_true": {
                             "biome_is": [
                               "jermsy:tundra",
+                              "jermsy:wooded_tundra",
                               "jermsy:seasonal_forest",
                               "jermsy:shrubland",
                               "minecraft:plains",
+                              "minecraft:meadow",
+                              "minecraft:snowy_plains",
+                              "minecraft:snowy_taiga",
                               "minecraft:sunflower_plains",
                               "minecraft:taiga",
                               "minecraft:forest",

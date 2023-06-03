@@ -31,7 +31,8 @@
   },
   "features": [
     [
-      "jermsy:forest_surface"
+      "jermsy:forest_surface",
+      "jermsy:stone_cliff"
 	],
     [
       "minecraft:lake_lava_underground",

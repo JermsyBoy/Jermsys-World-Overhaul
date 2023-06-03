@@ -10,7 +10,7 @@
     "fog_color": 15134448,
     "water_color": 2648471,
     "water_fog_color": 1851230,
-	"grass_color": 8829556,
+	  "grass_color": 8829556,
     "foliage_color": 7382860
   },
   "carvers": {
@@ -24,7 +24,7 @@
     [
       "jermsy:forest_surface",
       "jermsy:stone_cliff"
-	],
+	  ],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"
