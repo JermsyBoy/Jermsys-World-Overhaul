@@ -73,6 +73,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "jermsy:oak_fallen",
       "minecraft:forest_flowers",
       "jermsy:trees_sparse_forest",
       "minecraft:flower_default",
