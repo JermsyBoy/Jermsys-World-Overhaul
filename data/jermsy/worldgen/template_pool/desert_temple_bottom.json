@@ -1,9 +1,5 @@
 {
-<<<<<<<< HEAD:data/jermsy/worldgen/template_pool/desert_temple_bottom.json
   "name": "jermsy:desert_temple_bottom",
-========
-  "name": "jermsy:igloo/igloo",
->>>>>>>> main:data/jermsy/worldgen/template_pool/igloo/igloo.json
   "fallback": "minecraft:empty",
   "elements": [
 	{
@@ -11,11 +7,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-<<<<<<<< HEAD:data/jermsy/worldgen/template_pool/desert_temple_bottom.json
 				"location": "jermsy:desert_temple_bottom_1"
-========
-				"location": "jermsy:igloo/igloo_1"
->>>>>>>> main:data/jermsy/worldgen/template_pool/igloo/igloo.json
 		},
 		"weight": 1
 	},
@@ -24,11 +16,7 @@
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
 				"processors": "minecraft:empty",
-<<<<<<<< HEAD:data/jermsy/worldgen/template_pool/desert_temple_bottom.json
 				"location": "jermsy:desert_temple_bottom_2"
-========
-				"location": "jermsy:igloo/igloo_2"
->>>>>>>> main:data/jermsy/worldgen/template_pool/igloo/igloo.json
 		},
 		"weight": 1
 	}

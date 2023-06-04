@@ -7,11 +7,7 @@
   },
   "structures": [
     {
-<<<<<<<< HEAD:data/jermsy/worldgen/structure_set/desert_well.json
-      "structure": "jermsy:desert_well",
-========
       "structure": "jermsy:igloo",
->>>>>>>> main:data/jermsy/worldgen/structure_set/igloo.json
       "weight": 1
     }
   ]
