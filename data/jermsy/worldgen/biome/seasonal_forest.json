@@ -71,6 +71,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "jermsy:oak_fallen",
       "jermsy:trees_seasonal",
       "minecraft:flower_warm",
       "minecraft:patch_grass_jungle",

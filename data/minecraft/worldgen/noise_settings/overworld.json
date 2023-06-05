@@ -1370,9 +1370,12 @@
                           "if_true": {
                             "biome_is": [
                               "jermsy:tundra",
+                              "jermsy:wooded_tundra",
                               "jermsy:seasonal_forest",
-                              "jermsy:shrubland",
                               "minecraft:plains",
+                              "minecraft:meadow",
+                              "minecraft:snowy_plains",
+                              "minecraft:snowy_taiga",
                               "minecraft:sunflower_plains",
                               "minecraft:taiga",
                               "minecraft:forest",
@@ -1432,8 +1435,7 @@
                         {
                           "if_true": {
                             "biome_is": [
-                              "minecraft:jagged_peaks",
-                              "minecraft:snowy_plains"
+                              "minecraft:jagged_peaks"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -1989,8 +1991,7 @@
                         {
                           "if_true": {
                             "biome_is": [
-                              "minecraft:ice_spikes",
-                              "minecraft:snowy_plains"
+                              "minecraft:ice_spikes"
                             ],
                             "type": "minecraft:biome"
                           },
@@ -2339,9 +2340,13 @@
                           "if_true": {
                             "biome_is": [
                               "jermsy:tundra",
+                              "jermsy:wooded_tundra",
                               "jermsy:seasonal_forest",
                               "jermsy:shrubland",
                               "minecraft:plains",
+                              "minecraft:meadow",
+                              "minecraft:snowy_plains",
+                              "minecraft:snowy_taiga",
                               "minecraft:sunflower_plains",
                               "minecraft:taiga",
                               "minecraft:forest",
@@ -2398,58 +2403,7 @@
                         {
                           "if_true": {
                             "biome_is": [
-                              "jermsy:rainforest",
-                              "minecraft:jungle",
-                              "minecraft:sparse_jungle",
-                              "minecraft:bamboo_jungle"
-                            ],
-                            "type": "minecraft:biome"
-                          },
-                          "then_run": {
-                            "sequence": [
-                              {
-                                "if_true": {
-                                  "type": "minecraft:steep"
-                                },
-                                "then_run": {
-                                  "result_state": {
-                                    "Name": "minecraft:tuff"
-                                  },
-                                  "type": "minecraft:block"
-                                },
-                                "type": "minecraft:condition"
-                              },
-							  {
-                              "if_true": {
-                                "offset": -1,
-                                "surface_depth_multiplier": 0,
-                                "add_stone_depth": false,
-                                "type": "minecraft:water"
-                              },
-                              "then_run": {
-                                "result_state": {
-                                  "Name": "minecraft:dirt"
-                                },
-                                "type": "minecraft:block"
-                              },
-                              "type": "minecraft:condition"
-                            },
-                              {
-                                "result_state": {
-                                  "Name": "minecraft:dirt"
-                                },
-                                "type": "minecraft:block"
-                              }
-                            ],
-                            "type": "minecraft:sequence"
-                          },
-                          "type": "minecraft:condition"
-                        },
-                        {
-                          "if_true": {
-                            "biome_is": [
-                              "minecraft:jagged_peaks",
-                              "minecraft:snowy_plains"
+                              "minecraft:jagged_peaks"
                             ],
                             "type": "minecraft:biome"
                           },

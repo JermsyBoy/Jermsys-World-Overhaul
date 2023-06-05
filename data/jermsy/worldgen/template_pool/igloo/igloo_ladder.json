@@ -1,0 +1,15 @@
+{
+  "name": "jermsy:igloo/igloo_ladder",
+  "fallback": "minecraft:empty",
+  "elements": [
+	{
+		"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"processors": "jermsy:unwaterlog",
+				"location": "jermsy:igloo/igloo_ladder"
+		},
+		"weight": 1
+	}
+	]
+}

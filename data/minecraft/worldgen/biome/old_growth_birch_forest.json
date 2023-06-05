@@ -31,7 +31,8 @@
   },
   "features": [
     [
-      "jermsy:forest_surface"
+      "jermsy:forest_surface",
+      "jermsy:stone_cliff"
 	],
     [
       "minecraft:lake_lava_underground",
@@ -83,6 +84,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "jermsy:birch_fallen",
       "jermsy:birch_forest_flowers",
       "minecraft:birch_tall",
       "jermsy:flower_birch",
