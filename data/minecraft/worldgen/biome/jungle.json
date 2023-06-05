@@ -22,7 +22,10 @@
   },
   "features": [
     [
-	],
+      "jermsy:jungle_surface",
+      "jermsy:tuff_cliff"
+	  ],
+    [],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"
