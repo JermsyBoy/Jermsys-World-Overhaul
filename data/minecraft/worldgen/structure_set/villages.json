@@ -25,6 +25,10 @@
     {
       "structure": "minecraft:village_taiga",
       "weight": 1
+    },
+    {
+      "structure": "jermsy:village_jungle",
+      "weight": 1
     }
   ]
 }
