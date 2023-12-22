@@ -123,7 +123,7 @@
     },
     "trunk_placer": {
       "type": "minecraft:fancy_trunk_placer",
-      "base_height": 9,
+      "base_height": 10,
       "height_rand_a": 11,
       "height_rand_b": 0
     },

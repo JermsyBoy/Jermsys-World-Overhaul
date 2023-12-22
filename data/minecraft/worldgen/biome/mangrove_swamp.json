@@ -20,10 +20,10 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.swamp"
     },
-    "grass_color_modifier": "swamp",
     "foliage_color": 9285927,
-	"sky_color": 10479592,
-    "fog_color": 11524489,
+    "grass_color": 7770682,
+	  "sky_color": 9421244,
+    "fog_color": 13164495,
     "water_color": 3832426,
     "water_fog_color": 2302743
   },
@@ -81,7 +81,7 @@
     [
       "minecraft:glow_lichen",
       "minecraft:trees_mangrove",
-      "minecraft:patch_grass_normal",
+      "jermsy:patch_grass_mangrove",
       "minecraft:patch_dead_bush",
       "minecraft:patch_waterlily",
       "minecraft:seagrass_swamp"
