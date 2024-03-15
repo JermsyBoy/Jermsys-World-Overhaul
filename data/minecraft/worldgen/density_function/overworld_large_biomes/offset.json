@@ -41,7 +41,7 @@
               "min_value": -64,
               "max_value": 64,
               "spline": {
-                "coordinate": "tectonic:overworld/continents",
+                "coordinate": "tectonic:overworld_large_biomes/continents",
                 "points": [
                   {
                     "location": -1.1,
@@ -489,7 +489,7 @@
                                 "location": -0.3,
                                 "derivative": 0,
                                 "value": {
-                                  "coordinate": "minecraft:overworld/temperature",
+                                  "coordinate": "minecraft:overworld_large_biomes/temperature",
                                   "points": [
                                     {
                                       "location": 0.55,
@@ -561,7 +561,7 @@
                                 "location": -0.3,
                                 "derivative": 0,
                                 "value": {
-                                  "coordinate": "minecraft:overworld/temperature",
+                                  "coordinate": "minecraft:overworld_large_biomes/temperature",
                                   "points": [
                                     {
                                       "location": 0.55,
