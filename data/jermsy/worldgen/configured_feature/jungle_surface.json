@@ -4,8 +4,10 @@
     "surface": "floor",
     "depth": {
       "type": "minecraft:uniform",
-      "min_inclusive": 1,
-      "max_inclusive": 1
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 1
+      }
     },
     "vertical_range": 2,
     "extra_bottom_block_chance": 0.1,
@@ -13,8 +15,10 @@
     "vegetation_chance": 0,
     "xz_radius": {
       "type": "minecraft:uniform",
-      "min_inclusive": 0,
-      "max_inclusive": 4
+      "value": {
+        "min_inclusive": 0,
+        "max_inclusive": 4
+      }
     },
     "replaceable": "#jermsy:surface_blocks",
     "ground_state": {
