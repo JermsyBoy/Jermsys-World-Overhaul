@@ -1,6 +1,26 @@
 {
 	"pack": {
-		"pack_format": 41,
-   		 "description": "\u00A7f-\u00A7eJermsyBoy's World Overhaul\u00A7f-\n\u00A7f       -\u00A76 V1.7 1.20.6 \u00A7f-\u00A74"
+        "id": "jermsys-world-overhaul",
+		"supported_formats": [
+			15,
+			41
+		],
+		"pack_format": 15,
+   		"description": "\u00A7f-\u00A7eJermsyBoy's World Overhaul\u00A7f-\n\u00A7f       -\u00A76 V1.7 1.20-1.20.6 \u00A7f-\u00A74"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"formats": [
+					26,
+					41
+				],
+				"directory": "1-20-3-overlay"
+			},
+			{
+				"formats": 41,
+				"directory": "1-20-5-overlay"
+			}
+		]
 	}
 }

@@ -25,8 +25,10 @@
           },
           "values": {
             "type": "minecraft:uniform",
-            "max_inclusive": 4,
-            "min_inclusive": 0
+            "value": {
+              "max_inclusive": 4,
+              "min_inclusive": 0
+            }
           }
         },
         "directions": [
@@ -113,8 +115,10 @@
       },
       "trunk_offset_y": {
         "type": "minecraft:uniform",
-        "max_inclusive": 7,
-        "min_inclusive": 3
+        "value": {
+          "max_inclusive": 7,
+          "min_inclusive": 3
+        }
       }
     },
     "trunk_placer": {

@@ -1,0 +1,121 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "minecraft:netherrack_replace_blobs",
+          "config": {
+            "state": {
+              "Name": "minecraft:smooth_sandstone"
+            },
+            "target": {
+              "Name": "minecraft:terracotta"
+            },
+            "radius": {
+              "type": "minecraft:uniform",
+              "min_inclusive": 7,
+              "max_inclusive": 12
+            }
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:netherrack_replace_blobs",
+          "config": {
+            "state": {
+              "Name": "minecraft:coarse_dirt"
+            },
+            "target": {
+              "Name": "minecraft:red_terracotta"
+            },
+            "radius": {
+              "type": "minecraft:uniform",
+              "min_inclusive": 7,
+              "max_inclusive": 12
+            }
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:netherrack_replace_blobs",
+          "config": {
+            "state": {
+              "Name": "minecraft:sandstone"
+            },
+            "target": {
+              "Name": "minecraft:orange_terracotta"
+            },
+            "radius": {
+              "type": "minecraft:uniform",
+              "min_inclusive": 7,
+              "max_inclusive": 12
+            }
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:netherrack_replace_blobs",
+          "config": {
+            "state": {
+              "Name": "minecraft:packed_mud"
+            },
+            "target": {
+              "Name": "minecraft:brown_terracotta"
+            },
+            "radius": {
+              "type": "minecraft:uniform",
+              "min_inclusive": 7,
+              "max_inclusive": 12
+            }
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:netherrack_replace_blobs",
+          "config": {
+            "state": {
+              "Name": "minecraft:packed_mud"
+            },
+            "target": {
+              "Name": "minecraft:yellow_terracotta"
+            },
+            "radius": {
+              "type": "minecraft:uniform",
+              "min_inclusive": 7,
+              "max_inclusive": 12
+            }
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:netherrack_replace_blobs",
+          "config": {
+            "state": {
+              "Name": "minecraft:packed_mud"
+            },
+            "target": {
+              "Name": "minecraft:white_terracotta"
+            },
+            "radius": {
+              "type": "minecraft:uniform",
+              "min_inclusive": 7,
+              "max_inclusive": 12
+            }
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

@@ -20,7 +20,7 @@
         "Properties": {
           "axis": "y"
         },
-        "Name": "minecraft:spruce_log"
+        "Name": "minecraft:spruce"
       },
       "type": "minecraft:simple_state_provider"
     },
