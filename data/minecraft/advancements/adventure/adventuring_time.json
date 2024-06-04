@@ -1096,10 +1096,9 @@
       "translate": "advancements.adventure.adventuring_time.description"
     },
     "frame": "challenge",
-    "hidden": false,
     "icon": {
-      "item": "minecraft:diamond_boots",
-      "nbt": "{Damage:0}"
+      "count": 1,
+      "id": "minecraft:diamond_boots"
     },
     "show_toast": true,
     "title": {
