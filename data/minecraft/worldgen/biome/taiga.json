@@ -169,9 +169,9 @@
       },
       {
         "type": "minecraft:wolf",
-        "weight": 8,
+        "maxCount": 4,
         "minCount": 4,
-        "maxCount": 4
+        "weight": 8
       },
       {
         "type": "minecraft:rabbit",
