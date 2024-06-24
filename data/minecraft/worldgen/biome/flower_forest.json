@@ -79,10 +79,12 @@
     ],
     [
       "minecraft:glow_lichen",
+      "jermsy:oak_fallen",
+      "jermsy:birch_fallen",
       "minecraft:flower_forest_flowers",
       "minecraft:trees_flower_forest",
       "minecraft:flower_flower_forest",
-      "minecraft:patch_grass_badlands",
+      "minecraft:patch_grass_plain",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
