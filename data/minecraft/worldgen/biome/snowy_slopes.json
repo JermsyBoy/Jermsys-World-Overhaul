@@ -10,23 +10,21 @@
       "offset": 2.0
     },
     "music": {
-      "sound": "minecraft:music.overworld.snowy_slopes",
-      "min_delay": 12000,
       "max_delay": 24000,
-      "replace_current_music": false
+      "min_delay": 12000,
+      "replace_current_music": false,
+      "sound": "minecraft:music.overworld.snowy_slopes"
     },
     "sky_color": 12702441,
     "fog_color": 15134448,
     "water_color": 2648471,
     "water_fog_color": 1851230
   },
-  "carvers": {
-    "air": [
-      "minecraft:cave",
-      "minecraft:cave_extra_underground",
-      "minecraft:canyon"
-    ]
-  },
+  "carvers": [
+    "minecraft:cave",
+    "minecraft:cave_extra_underground",
+    "minecraft:canyon"
+  ],
   "features": [
     [
       "jermsy:stone_cliff"

@@ -31,9 +31,7 @@
     "water_color": 4159204,
     "water_fog_color": 329011
   },
-  "carvers": {
-    "air": "minecraft:nether_cave"
-  },
+  "carvers": "minecraft:nether_cave",
   "features": [
     [],
     [],
