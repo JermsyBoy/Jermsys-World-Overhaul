@@ -9,6 +9,18 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
+    "music": [
+      {
+        "data": {
+          "max_delay": 24000,
+          "min_delay": 12000,
+          "replace_current_music": false,
+          "sound": "minecraft:music.overworld.badlands"
+        },
+        "weight": 1
+      }
+    ],
+    "music_volume": 1.0,
     "sky_color": 11985625,
     "fog_color": 15194797,
     "water_color": 4816793,
@@ -16,13 +28,11 @@
     "foliage_color": 11713083,
     "grass_color": 12569942
   },
-  "carvers": {
-    "air": [
+  "carvers": [
       "minecraft:cave",
       "minecraft:cave_extra_underground",
       "minecraft:canyon"
-    ]
-  },
+  ],
   "features": [
     [],
     [

@@ -13,13 +13,11 @@
     "grass_color": 8762951,
     "foliage_color": 7119905
   },
-  "carvers": {
-    "air": [
-      "minecraft:cave",
-      "minecraft:cave_extra_underground",
-      "minecraft:canyon"
-    ]
-  },
+  "carvers": [
+    "minecraft:cave",
+    "minecraft:cave_extra_underground",
+    "minecraft:canyon"
+  ],
   "features": [
     [
       "jermsy:stone_cliff"

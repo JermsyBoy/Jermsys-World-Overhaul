@@ -9,12 +9,18 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-    "music": {
-      "sound": "minecraft:music.overworld.old_growth_taiga",
-      "min_delay": 12000,
-      "max_delay": 24000,
-      "replace_current_music": false
-    },
+    "music": [
+      {
+        "data": {
+          "max_delay": 24000,
+          "min_delay": 12000,
+          "replace_current_music": false,
+          "sound": "minecraft:music.overworld.old_growth_taiga"
+        },
+        "weight": 1
+      }
+    ],
+    "music_volume": 1.0,
     "sky_color": 11390438,
     "fog_color": 15134448,
     "water_color": 2648471,
@@ -22,13 +28,11 @@
 	  "grass_color": 8829556,
     "foliage_color": 7382860
   },
-  "carvers": {
-    "air": [
-      "minecraft:cave",
-      "minecraft:cave_extra_underground",
-      "minecraft:canyon"
-    ]
-  },
+  "carvers": [
+    "minecraft:cave",
+    "minecraft:cave_extra_underground",
+    "minecraft:canyon"
+  ],
   "features": [
     [
       "jermsy:stone_cliff"
