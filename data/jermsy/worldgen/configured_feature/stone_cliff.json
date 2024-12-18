@@ -46,10 +46,13 @@
                 ],
                 "blocks": [
                   "minecraft:grass_block",
+                  "minecraft:stone",
                   "minecraft:dirt",
-				          "minecraft:snow_block",
-				          "minecraft:powder_snow",
-                  "minecraft:podzol"
+                  "minecraft:snow_block",
+                  "minecraft:powder_snow",
+                  "minecraft:podzol",
+                  "minecraft:coarse_dirt",
+                  "minecraft:pale_moss_block"
                 ]
               },
               {
@@ -69,7 +72,8 @@
                       "minecraft:snow_block",
                       "minecraft:powder_snow",
 					            "minecraft:podzol",
-					            "minecraft:coarse_dirt"
+					            "minecraft:coarse_dirt",
+                      "minecraft:pale_moss_block"
                     ]
                   },
                   {
@@ -86,7 +90,8 @@
                       "minecraft:snow_block",
                       "minecraft:powder_snow",
                       "minecraft:podzol",
-					            "minecraft:coarse_dirt"
+					            "minecraft:coarse_dirt",
+                      "minecraft:pale_moss_block"
                     ]
                   },
                   {
@@ -103,7 +108,8 @@
                       "minecraft:snow_block",
                       "minecraft:powder_snow",
                       "minecraft:podzol",
-					            "minecraft:coarse_dirt"
+					            "minecraft:coarse_dirt",
+                      "minecraft:pale_moss_block"
                     ]
                   },
                   {
@@ -120,7 +126,8 @@
                       "minecraft:snow_block",
                       "minecraft:powder_snow",
                       "minecraft:podzol",
-					            "minecraft:coarse_dirt"
+					            "minecraft:coarse_dirt",
+                      "minecraft:pale_moss_block"
                     ]
                   },
                   {
@@ -137,7 +144,8 @@
                       "minecraft:snow_block",
                       "minecraft:powder_snow",
                       "minecraft:podzol",
-					            "minecraft:coarse_dirt"
+					            "minecraft:coarse_dirt",
+                      "minecraft:pale_moss_block"
                     ]
                   },
                   {
@@ -154,7 +162,8 @@
                       "minecraft:snow_block",
                       "minecraft:powder_snow",
                       "minecraft:podzol",
-					            "minecraft:coarse_dirt"
+					            "minecraft:coarse_dirt",
+                      "minecraft:pale_moss_block"
                     ]
                   },
                   {
@@ -171,7 +180,8 @@
                       "minecraft:snow_block",
                       "minecraft:powder_snow",
                       "minecraft:podzol",
-					            "minecraft:coarse_dirt"
+					            "minecraft:coarse_dirt",
+                      "minecraft:pale_moss_block"
                     ]
                   },
                   {
@@ -188,7 +198,8 @@
                       "minecraft:snow_block",
                       "minecraft:powder_snow",
                       "minecraft:podzol",
-					            "minecraft:coarse_dirt"
+					            "minecraft:coarse_dirt",
+                      "minecraft:pale_moss_block"
                     ]
                   }
                 ]

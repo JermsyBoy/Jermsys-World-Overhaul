@@ -6,6 +6,18 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
+    "music": [
+      {
+        "data": {
+          "max_delay": 24000,
+          "min_delay": 12000,
+          "replace_current_music": false,
+          "sound": "minecraft:music.overworld.desert"
+        },
+        "weight": 1
+      }
+    ],
+    "music_volume": 1.0,
     "sky_color": 11197680,
     "fog_color": 13227200,
     "water_color": 3319192,
@@ -13,13 +25,11 @@
     "grass_color": 12173913,
     "foliage_color": 11252550
   },
-  "carvers": {
-    "air": [
-      "minecraft:cave",
-      "minecraft:cave_extra_underground",
-      "minecraft:canyon"
-    ]
-  },
+  "carvers": [
+    "minecraft:cave",
+    "minecraft:cave_extra_underground",
+    "minecraft:canyon"
+  ],
   "features": [
     [
       "jermsy:desert_terracotta"

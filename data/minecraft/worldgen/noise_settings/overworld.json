@@ -1381,6 +1381,7 @@
                               "jermsy:flower_fields",
                               "jermsy:sparse_forest",
                               "minecraft:dark_forest",
+                              "minecraft:pale_forest",
                               "minecraft:cherry_grove"
                             ],
                             "type": "minecraft:biome"
@@ -2694,6 +2695,7 @@
                               "jermsy:flower_fields",
                               "jermsy:sparse_forest",
                               "minecraft:dark_forest",
+                              "minecraft:pale_forest",
                               "minecraft:cherry_grove"
                             ],
                             "type": "minecraft:biome"
