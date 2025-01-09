@@ -1,0 +1,19 @@
+{
+  "values": [
+    "minecraft:snowy_taiga",
+    "minecraft:taiga",
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:windswept_hills",
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:windswept_forest",
+    "jermsy:cold_river",
+    "jermsy:gravelly_beach",
+    "jermsy:old_extreme_hills",
+    "jermsy:seasonal_forest",
+    "jermsy:seasonal_river",
+    "jermsy:cold_river",
+    "jermsy:tundra",
+    "jermsy:wooded_tundra"
+  ]
+}
