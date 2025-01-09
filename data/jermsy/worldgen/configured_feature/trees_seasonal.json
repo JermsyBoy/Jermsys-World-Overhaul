@@ -2,11 +2,11 @@
   "config": {
     "features": [
       {
-        "feature": "minecraft:fancy_oak_checked",
+        "feature": "minecraft:fancy_oak_leaf_litter",
         "chance": 0.2
       },
       {
-        "feature": "minecraft:fancy_oak_checked",
+        "feature": "minecraft:fancy_oak_leaf_litter",
         "chance": 0.1
       },
       {
@@ -14,7 +14,7 @@
         "chance": 0.2
       }
     ],
-    "default": "minecraft:fancy_oak_checked"
+    "default": "minecraft:fancy_oak_leaf_litter"
   },
   "type": "minecraft:random_selector"
 }
