@@ -1,0 +1,13 @@
+{
+  "values": [
+    "minecraft:river",
+    "minecraft:frozen_river",
+    "jermsy:birch_river",
+    "jermsy:dark_river",
+    "jermsy:cold_river",
+    "jermsy:forest_river",
+    "jermsy:humid_river",
+    "jermsy:torrid_river",
+    "jermsy:seasonal_river"
+  ]
+}
