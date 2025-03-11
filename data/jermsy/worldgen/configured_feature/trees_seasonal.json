@@ -12,6 +12,10 @@
       {
         "feature": "minecraft:super_birch_bees_0002",
         "chance": 0.2
+      },
+      {
+        "chance": 0.0125,
+        "feature": "minecraft:fallen_oak_tree"
       }
     ],
     "default": "minecraft:fancy_oak_leaf_litter"
