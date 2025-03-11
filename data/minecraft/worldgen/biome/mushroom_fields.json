@@ -18,7 +18,8 @@
     "water_color": 4159204,
     "water_fog_color": 329011,
     "grass_color": 12561331,
-    "foliage_color": 11704739
+    "foliage_color": 11704739,
+    "dry_foliage_color": 10126477
   },
   "features": [
     [],
