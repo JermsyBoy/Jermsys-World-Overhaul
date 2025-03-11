@@ -11,7 +11,8 @@
     "water_color": 2648471,
     "water_fog_color": 1851230,
     "grass_color": 10596931,
-    "foliage_color": 16750884
+    "foliage_color": 16750884,
+    "dry_foliage_color": 10379561
   },
   "carvers": [
     "minecraft:cave",
