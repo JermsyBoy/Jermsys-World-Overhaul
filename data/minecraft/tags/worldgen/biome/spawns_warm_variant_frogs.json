@@ -5,7 +5,6 @@
     "#minecraft:is_savanna",
     "#minecraft:is_nether",
     "#minecraft:is_badlands",
-    "minecraft:deep_lukewarm_ocean",
-    "minecraft:lukewarm_ocean"
+    "minecraft:mangrove_swamp"
   ]
 }
