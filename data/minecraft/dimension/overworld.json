@@ -2093,36 +2093,6 @@
             ],
             "humidity": [
               -1,
-              -0.35000000000000003
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
               1
             ],
             "depth": [
@@ -3430,96 +3400,6 @@
               -0.93
             ],
             "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "jermsy:marshland"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93
-            ],
-            "continentalness": [
               0.3,
               1
             ],
@@ -4232,36 +4112,6 @@
             "offset": 0
           },
           "biome": "minecraft:forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:swamp"
         },
         {
           "parameters": {
@@ -11021,7 +10871,7 @@
             ],
             "continentalness": [
               -0.11,
-              0.03
+              1
             ],
             "erosion": [
               0.55,
@@ -11950,96 +11800,6 @@
               -0.05
             ],
             "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "jermsy:marshland"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.34,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.34,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.34,
-              -0.05
-            ],
-            "continentalness": [
               0.3,
               1
             ],
@@ -12572,36 +12332,6 @@
             "offset": 0
           },
           "biome": "jermsy:red_desert"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.34,
-              0.4
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:swamp"
         },
         {
           "parameters": {
@@ -14372,6 +14102,36 @@
             "offset": 0
           },
           "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.18,
+              0.4
+            ],
+            "continentalness": [
+              0.3,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
+              1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:swamp"
         },
         {
           "parameters": {
@@ -34163,36 +33923,6 @@
             ],
             "humidity": [
               -1,
-              -0.35000000000000003
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93
-            ],
-            "continentalness": [
-              -0.11,
-              0.03
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
               1
             ],
             "depth": [
@@ -35500,96 +35230,6 @@
               -0.93
             ],
             "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "jermsy:marshland"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93
-            ],
-            "continentalness": [
               0.3,
               1
             ],
@@ -36302,36 +35942,6 @@
             "offset": 0
           },
           "biome": "minecraft:forest"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -1,
-              -0.93
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:swamp"
         },
         {
           "parameters": {
@@ -43091,7 +42701,7 @@
             ],
             "continentalness": [
               -0.11,
-              0.03
+              1
             ],
             "erosion": [
               0.55,
@@ -44020,96 +43630,6 @@
               -0.05
             ],
             "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              -0.15
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "jermsy:marshland"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.34,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              0.2
-            ],
-            "humidity": [
-              -0.1,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.34,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:swamp"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.34,
-              -0.05
-            ],
-            "continentalness": [
               0.3,
               1
             ],
@@ -44642,36 +44162,6 @@
             "offset": 0
           },
           "biome": "jermsy:red_desert"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.34,
-              0.4
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.45,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:swamp"
         },
         {
           "parameters": {
@@ -46442,6 +45932,36 @@
             "offset": 0
           },
           "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.18,
+              0.4
+            ],
+            "continentalness": [
+              0.3,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
+              1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:swamp"
         },
         {
           "parameters": {

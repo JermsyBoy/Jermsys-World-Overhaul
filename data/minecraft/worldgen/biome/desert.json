@@ -165,6 +165,12 @@
         "weight": 4,
         "minCount": 2,
         "maxCount": 3
+      },
+      {
+        "type": "minecraft:camel",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 1
       }
     ],
     "ambient": [
