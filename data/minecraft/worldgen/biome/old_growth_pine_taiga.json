@@ -71,6 +71,7 @@
       "minecraft:ore_redstone",
       "minecraft:ore_redstone_lower",
       "minecraft:ore_diamond",
+      "minecraft:ore_diamond_medium",
       "minecraft:ore_diamond_large",
       "minecraft:ore_diamond_buried",
       "minecraft:ore_lapis",
@@ -88,7 +89,6 @@
     ],
     [
       "minecraft:glow_lichen",
-      "jermsy:spruce_fallen",
       "minecraft:patch_large_fern",
       "minecraft:trees_old_growth_pine_taiga",
       "minecraft:flower_default",
@@ -98,8 +98,9 @@
       "minecraft:red_mushroom_old_growth",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
+      "minecraft:patch_sugar_cane",
+      "minecraft:patch_firefly_bush_near_water",
       "minecraft:patch_berry_common"
     ],
     [

@@ -11,7 +11,8 @@
     "water_color": 2648471,
     "water_fog_color": 1851230,
     "grass_color": 10596931,
-    "foliage_color": 16750884
+    "foliage_color": 16750884,
+    "dry_foliage_color": 10379561
   },
   "carvers": [
     "minecraft:cave",
@@ -55,6 +56,7 @@
       "minecraft:ore_redstone",
       "minecraft:ore_redstone_lower",
       "minecraft:ore_diamond",
+      "minecraft:ore_diamond_medium",
       "minecraft:ore_diamond_large",
       "minecraft:ore_diamond_buried",
       "minecraft:ore_lapis",
@@ -73,12 +75,14 @@
     [
       "minecraft:glow_lichen",
       "jermsy:trees_seasonal",
+      "minecraft:patch_bush",
       "minecraft:flower_warm",
       "minecraft:patch_grass_jungle",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
       "jermsy:patch_pumpkin_seasonal",
+      "minecraft:patch_sugar_cane",
+      "minecraft:patch_firefly_bush_near_water",
       "minecraft:seagrass_river"
     ],
     [

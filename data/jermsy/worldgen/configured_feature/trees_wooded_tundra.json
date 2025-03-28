@@ -8,6 +8,10 @@
       {
         "feature": "jermsy:wooded_tundra_bush",
         "chance": 0.95
+      },
+      {
+        "chance": 0.01,
+        "feature": "minecraft:fallen_spruce_tree"
       }
     ],
     "default": {

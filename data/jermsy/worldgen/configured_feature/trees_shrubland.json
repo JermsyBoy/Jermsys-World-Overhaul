@@ -8,6 +8,10 @@
       {
         "feature": "jermsy:shrubland_bush",
         "chance": 0.95
+      },
+      {
+        "chance": 0.01,
+        "feature": "minecraft:fallen_oak_tree"
       }
     ],
     "default": {
