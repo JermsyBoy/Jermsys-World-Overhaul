@@ -17,6 +17,8 @@
     "minecraft:windswept_forest",
     "minecraft:windswept_gravelly_hills",
     "minecraft:windswept_hills",
-    "minecraft:stony_peaks"
+    "jermsy:old_extreme_hills",
+    "jermsy:wooded_tundra",
+    "jermsy:tundra"
   ]
 }

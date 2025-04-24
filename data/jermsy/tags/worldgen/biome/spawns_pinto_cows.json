@@ -4,6 +4,9 @@
     "minecraft:beach",
     "minecraft:stony_shore",
     "minecraft:savanna",
-    "minecraft:savanna_plateau"
+    "minecraft:savanna_plateau",
+    "jermsy:dark_river",
+    "jermsy:shrubland",
+    "jermsy:torrid_river"
   ]
 }

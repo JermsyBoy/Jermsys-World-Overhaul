@@ -1,6 +1,9 @@
 {
   "values": [
     "minecraft:jungle",
-    "minecraft:sparse_jungle"
+    "minecraft:sparse_jungle",
+    "minecraft:bamboo_jungle",
+    "jermsy:rainforest",
+    "jermsy:humid_river"
   ]
 }
