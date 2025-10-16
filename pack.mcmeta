@@ -1,11 +1,9 @@
 {
 	"pack": {
-        "id": "jermsys-world-overhaul",
-		"supported_formats": 71,
-		"pack_format": 71,
-   		"description": "\u00A7f-\u00A7eJermsyBoy's World Overhaul\u00A7f-\n\u00A7f       -\u00A76 V1.16 1.21.5 \u00A7f-\u00A74"
+		"description": "\u00A7f-\u00A7eJermsyBoy's World Overhaul\u00A7f-\n\u00A7f       -\u00A76 V1.18 1.21.10 \u00A7f-\u00A74",
+		"min_format": [88,0],
+		"max_format": [88,0]
 	},
-	"overlays": {
-		"entries": []
+	"overlays": { "entries": []
 	}
 }
