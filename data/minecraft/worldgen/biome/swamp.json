@@ -11,11 +11,12 @@
     "minecraft:visual/fog_color": "#a9d29d",
     "minecraft:visual/sky_color": "#73bfd9",
     "minecraft:visual/water_fog_color": "#374940",
-    "minecraft:visual/water_fog_radius": {
+    "minecraft:visual/water_fog_end_distance": {
       "argument": 0.85,
       "modifier": "multiply"
     },
-    "minecraft:visual/extra_fog": true
+    "minecraft:visual/fog_start_distance": -5,
+    "minecraft:visual/fog_end_distance": 25
   },
   "has_precipitation": true,
   "temperature": 0.8,
