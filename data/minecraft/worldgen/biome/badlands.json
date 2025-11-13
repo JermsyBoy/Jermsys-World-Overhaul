@@ -1,33 +1,31 @@
 {
-  "has_precipitation": false,
-  "temperature": 2.0,
-  "downfall": 0.0,
-  "effects": {
-    "mood_sound": {
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000,
-      "block_search_extent": 8,
-      "offset": 2.0
-    },
-    "music": [
-      {
-        "data": {
-          "max_delay": 24000,
-          "min_delay": 12000,
-          "replace_current_music": false,
-          "sound": "minecraft:music.overworld.badlands"
-        },
-        "weight": 1
+  "attributes": {
+    "minecraft:audio/background_music": {
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.overworld.badlands"
       }
-    ],
-    "music_volume": 1.0,
-    "sky_color": 11985625,
-    "fog_color": 15194797,
+    },
+    "minecraft:gameplay/snow_golem_melts": true,
+    "minecraft:visual/fog_color": "#a9d29d",
+    "minecraft:visual/sky_color": "#6eb1ff",
+    "minecraft:visual/water_fog_color": "#374940",
+    "minecraft:visual/water_fog_end_distance": {
+      "argument": 0.85,
+      "modifier": "multiply"
+    },
+    "minecraft:visual/fog_start_distance": 0,
+    "minecraft:visual/fog_end_distance": 256
+  },
+  "effects": {
     "water_color": 4816793,
-    "water_fog_color": 3496814,
     "foliage_color": 11713083,
     "grass_color": 12569942
   },
+  "has_precipitation": false,
+  "temperature": 2.0,
+  "downfall": 0.0,
   "carvers": [
       "minecraft:cave",
       "minecraft:cave_extra_underground",
