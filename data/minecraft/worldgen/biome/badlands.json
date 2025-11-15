@@ -8,24 +8,23 @@
       }
     },
     "minecraft:gameplay/snow_golem_melts": true,
-    "minecraft:visual/fog_color": "#a9d29d",
-    "minecraft:visual/sky_color": "#6eb1ff",
-    "minecraft:visual/water_fog_color": "#374940",
+    "minecraft:visual/cloud_color": "#99f1f4dd",
+    "minecraft:visual/fog_color": "#e0e4be",
+    "minecraft:visual/sky_color": "#77d1f8",
+    "minecraft:visual/water_fog_color": "#355b6e",
     "minecraft:visual/water_fog_end_distance": {
       "argument": 0.85,
       "modifier": "multiply"
-    },
-    "minecraft:visual/fog_start_distance": 0,
-    "minecraft:visual/fog_end_distance": 256
+    }
   },
+  "has_precipitation": false,
+  "temperature": 2.0,
+  "downfall": 0.0,
   "effects": {
     "water_color": 4816793,
     "foliage_color": 11713083,
     "grass_color": 12569942
   },
-  "has_precipitation": false,
-  "temperature": 2.0,
-  "downfall": 0.0,
   "carvers": [
       "minecraft:cave",
       "minecraft:cave_extra_underground",

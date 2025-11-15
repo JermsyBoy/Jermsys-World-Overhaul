@@ -1,22 +1,34 @@
 {
-  "effects": {
-    "mood_sound": {
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000,
-      "block_search_extent": 8,
-      "offset": 2.0
+  "attributes": {
+    "minecraft:audio/background_music": {
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.overworld.badlands"
+      }
     },
-    "sky_color": 11985625,
-    "fog_color": 15194797,
+    "minecraft:gameplay/snow_golem_melts": true,
+    "minecraft:visual/cloud_color": "#99f1f4dd",
+    "minecraft:visual/fog_color": "#e0e4be",
+    "minecraft:visual/sky_color": "#77d1f8",
+    "minecraft:visual/water_fog_color": "#355b6e",
+    "minecraft:visual/water_fog_end_distance": {
+      "argument": 0.85,
+      "modifier": "multiply"
+    }
+  },
+  "has_precipitation": false,
+  "temperature": 2.0,
+  "downfall": 0.0,
+  "effects": {
     "water_color": 4816793,
-    "water_fog_color": 3496814,
     "foliage_color": 11713083,
     "grass_color": 12569942
   },
   "carvers": [
-    "minecraft:cave",
-    "minecraft:cave_extra_underground",
-    "minecraft:canyon"
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
   ],
   "features": [
     [],
@@ -175,8 +187,5 @@
     "misc": []
   },
   "spawn_costs": {},
-  "has_precipitation": false,
-  "temperature": 2.0,
-  "downfall": 0.0,
   "category": "desert"
 }
