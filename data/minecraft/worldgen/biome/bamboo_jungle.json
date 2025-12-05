@@ -11,9 +11,7 @@
     "minecraft:visual/cloud_color": "#60bcdff0",
     "minecraft:visual/fog_color": "#629bbc",
     "minecraft:visual/sky_color": "#73b5e8",
-    "minecraft:visual/water_fog_color": "#0c758c",
-    "minecraft:visual/fog_start_distance": 0,
-    "minecraft:visual/fog_end_distance": 420
+    "minecraft:visual/water_fog_color": "#0c758c"
   },
   "effects": {
     "water_color": 1352389,
