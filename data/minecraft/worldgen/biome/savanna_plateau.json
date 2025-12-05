@@ -1,15 +1,12 @@
 {
+  "attributes": {
+    "minecraft:gameplay/snow_golem_melts": true,
+    "minecraft:visual/sky_color": 8175332,
+    "minecraft:visual/fog_color": 10542834,
+    "minecraft:visual/water_fog_color": 1796217
+  },
   "effects": {
-    "mood_sound": {
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000,
-      "block_search_extent": 8,
-      "offset": 2.0
-    },
-    "sky_color": 8175332,
-    "fog_color": 12639735,
     "water_color": 2461864,
-    "water_fog_color": 1796217,
     "grass_color": 13677646,
     "foliage_color": 10922036
   },

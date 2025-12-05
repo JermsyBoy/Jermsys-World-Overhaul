@@ -1,43 +1,41 @@
 {
-  "has_precipitation": false,
-  "temperature": 2.0,
-  "downfall": 0.0,
-  "effects": {
-    "mood_sound": {
-      "sound": "minecraft:ambient.warped_forest.mood",
-      "tick_delay": 6000,
-      "block_search_extent": 8,
-      "offset": 2.0
+  "attributes": {
+    "minecraft:audio/ambient_sounds": {
+      "additions": {
+        "sound": "minecraft:ambient.warped_forest.additions",
+        "tick_chance": 0.0111
+      },
+      "loop": "minecraft:ambient.warped_forest.loop",
+      "mood": {
+        "block_search_extent": 8,
+        "offset": 2.0,
+        "sound": "minecraft:ambient.warped_forest.mood",
+        "tick_delay": 6000
+      }
     },
-    "additions_sound": {
-      "sound": "minecraft:ambient.warped_forest.additions",
-      "tick_chance": 0.0111
+    "minecraft:audio/background_music": {
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.nether.warped_forest"
+      }
     },
-    "music": [
+    "minecraft:visual/ambient_particles": [
       {
-        "data": {
-          "max_delay": 24000,
-          "min_delay": 12000,
-          "replace_current_music": false,
-          "sound": "minecraft:music.nether.warped_forest"
+        "particle": {
+          "type": "minecraft:warped_spore"
         },
-        "weight": 1
+        "probability": 0.01428
       }
     ],
-    "music_volume": 1.0,
-    "particle": {
-      "options": {
-        "type": "minecraft:warped_spore"
-      },
-      "probability": 0.01428
-    },
-    "ambient_sound": "minecraft:ambient.warped_forest.loop",
-    "sky_color": 4597078,
-    "fog_color": 1705242,
-    "water_color": 4159204,
-    "water_fog_color": 329011
+    "minecraft:visual/sky_color": 1002572,
+    "minecraft:visual/fog_color": 1002572
   },
   "carvers": "minecraft:nether_cave",
+  "downfall": 0.0,
+  "effects": {
+    "water_color": "#3f76e4"
+  },
   "features": [
     [],
     [],
@@ -72,34 +70,36 @@
       "minecraft:twisting_vines"
     ]
   ],
+  "has_precipitation": false,
+  "spawn_costs": {
+    "minecraft:enderman": {
+      "charge": 1.0,
+      "energy_budget": 0.12
+    }
+  },
   "spawners": {
-    "monster": [
-      {
-        "type": "minecraft:enderman",
-        "weight": 1,
-        "minCount": 4,
-        "maxCount": 4
-      }
-    ],
+    "ambient": [],
+    "axolotls": [],
     "creature": [
       {
         "type": "minecraft:strider",
-        "weight": 60,
+        "maxCount": 2,
         "minCount": 1,
-        "maxCount": 2
+        "weight": 60
       }
     ],
-    "ambient": [],
-    "axolotls": [],
+    "misc": [],
+    "monster": [
+      {
+        "type": "minecraft:enderman",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 1
+      }
+    ],
     "underground_water_creature": [],
-    "water_creature": [],
     "water_ambient": [],
-    "misc": []
+    "water_creature": []
   },
-  "spawn_costs": {
-    "minecraft:enderman": {
-      "energy_budget": 0.12,
-      "charge": 1.0
-    }
-  }
+  "temperature": 2.0
 }

@@ -1,15 +1,11 @@
 {
+  "attributes": {
+    "minecraft:visual/sky_color": 9224412,
+    "minecraft:visual/fog_color": 12179184,
+    "minecraft:visual/water_fog_color": 2122864
+  },
   "effects": {
-    "mood_sound": {
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000,
-      "block_search_extent": 8,
-      "offset": 2.0
-    },
-    "sky_color": 9224412,
-    "fog_color": 12179184,
     "water_color": 2919324,
-    "water_fog_color": 2122864,
     "grass_color": 9944651,
     "foliage_color": 8301854
   },
