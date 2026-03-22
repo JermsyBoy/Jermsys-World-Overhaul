@@ -1,4 +1,8 @@
 {
+  "attributes": {
+    "minecraft:visual/sky_color": 8233727,
+    "minecraft:visual/fog_color": 12638463
+  },
   "carvers": [
     "minecraft:cave",
     "minecraft:cave_extra_underground",
@@ -6,16 +10,7 @@
   ],
   "downfall": 0.4,
   "effects": {
-    "mood_sound": {
-      "block_search_extent": 8,
-      "offset": 2.0,
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000
-    },
-    "fog_color": 12638463,
-    "sky_color": 8233727,
     "water_color": 4159204,
-    "water_fog_color": 329011,
     "grass_color": 10336108,
     "foliage_color": 7771982
   },

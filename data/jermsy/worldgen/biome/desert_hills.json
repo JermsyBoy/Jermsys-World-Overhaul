@@ -1,15 +1,19 @@
 {
-  "effects": {
-    "mood_sound": {
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000,
-      "block_search_extent": 8,
-      "offset": 2.0
+  "attributes": {
+    "minecraft:audio/background_music": {
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.overworld.desert"
+      }
     },
-    "sky_color": 11197680,
-    "fog_color": 13227200,
+    "minecraft:gameplay/snow_golem_melts": true,
+    "minecraft:visual/sky_color": 11197680,
+    "minecraft:visual/fog_color": 13227200,
+    "minecraft:visual/water_fog_color": 2389869
+  },
+  "effects": {
     "water_color": 3319192,
-    "water_fog_color": 2389869,
     "grass_color": 12173913,
     "foliage_color": 11252550
   },
@@ -114,7 +118,7 @@
       },
       {
         "type": "minecraft:skeleton",
-        "weight": 100,
+        "weight": 50,
         "minCount": 4,
         "maxCount": 4
       },
@@ -147,6 +151,12 @@
         "weight": 80,
         "minCount": 4,
         "maxCount": 4
+      },
+      {
+        "type": "minecraft:parched",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 50
       }
     ],
     "creature": [

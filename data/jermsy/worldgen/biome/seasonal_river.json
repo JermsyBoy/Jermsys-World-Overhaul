@@ -1,4 +1,16 @@
 {
+  "attributes": {
+    "minecraft:audio/background_music": {
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.overworld.forest"
+      }
+    },
+    "minecraft:visual/sky_color": 11390438,
+    "minecraft:visual/fog_color": 15134448,
+    "minecraft:visual/water_fog_color": 1851230
+  },
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
@@ -6,10 +18,7 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-    "sky_color": 11390438,
-    "fog_color": 15134448,
     "water_color": 2648471,
-    "water_fog_color": 1851230,
     "grass_color": 10596931,
     "foliage_color": 16750884,
     "dry_foliage_color": 10379561
