@@ -1,10 +1,4 @@
 {
-  "config": {
-    "tries": 32,
-    "xz_spread": 7,
-    "y_spread": 3,
-    "feature": {
-      "feature": {
         "config": {
           "to_place": {
             "entries": [
@@ -24,8 +18,7 @@
             "type": "minecraft:weighted_state_provider"
           }
         },
-        "type": "minecraft:simple_block"
-      },
+        "type": "minecraft:simple_block",
       "placement": [
         {
           "predicate": {
@@ -56,7 +49,4 @@
           "type": "minecraft:block_predicate_filter"
         }
       ]
-    }
-  },
-  "type": "minecraft:random_patch"
 }
