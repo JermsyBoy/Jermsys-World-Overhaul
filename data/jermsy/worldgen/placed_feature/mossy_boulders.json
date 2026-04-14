@@ -298,7 +298,7 @@
             "Name": "minecraft:cobblestone"
           }
         ],
-      "cannot_replace": "#minecraft:rock_cannot_replace",
+      "cannot_replace": "#minecraft:features_cannot_replace",
       "invalid_blocks": "#jermsy:rock_invalid_blocks"
       },
       "layers": {
