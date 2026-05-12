@@ -24,8 +24,7 @@
   "features": [
     [
       "jermsy:boulders",
-      "jermsy:stone_cliff",
-      "jermsy:snow_patch"
+      "jermsy:stone_cliff"
 	],
     [
       "minecraft:lake_lava_underground"
@@ -83,8 +82,7 @@
       "minecraft:patch_firefly_bush_near_water"
     ],
     [
-      "minecraft:freeze_top_layer",
-      "jermsy:snowy_grass"
+      "minecraft:freeze_top_layer"
     ]
   ],
   "creature_spawn_probability": 0.07,
@@ -206,7 +204,7 @@
   },
   "spawn_costs": {},
   "has_precipitation": true,
-  "temperature": 0.25,
-  "downfall": 0.8,
-  "category": "icy"
+  "temperature": 0.14,
+  "temperature_modifier": "frozen",
+  "downfall": 0
 }
