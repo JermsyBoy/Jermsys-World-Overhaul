@@ -16,10 +16,7 @@
     "minecraft:canyon"
   ],
   "features": [
-    [
-      "jermsy:savanna_terracotta",
-      "jermsy:savanna_plateau_surface"
-	],
+    [],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"

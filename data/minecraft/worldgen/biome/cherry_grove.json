@@ -24,10 +24,8 @@
   },
   "features": [
     [
-      "jermsy:cherry_grove_surface",
-      "jermsy:mossy_boulders",
-      "jermsy:stone_cliff"
-	],
+      "jermsy:mossy_boulders"
+	  ],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface",

@@ -2,21 +2,41 @@
   "feature": "jermsy:flower_shrubland",
   "placement": [
     {
+      "type": "minecraft:rarity_filter",
+      "chance": 64
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING"
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
       "type": "minecraft:count",
       "count": 64
     },
     {
-      "type": "minecraft:random_offset",
-      "xz_spread": {
+      "type": "minecraft:offset",
+      "x": {
         "type": "minecraft:trapezoid",
-        "max": 6,
-        "min": -6,
+        "max": 7,
+        "min": -7,
         "plateau": 0
       },
-      "y_spread": {
+      "y": {
         "type": "minecraft:trapezoid",
-        "max": 2,
-        "min": -2,
+        "max": 3,
+        "min": -3,
+        "plateau": 0
+      },
+      "z": {
+        "type": "minecraft:trapezoid",
+        "max": 7,
+        "min": -7,
         "plateau": 0
       }
     },

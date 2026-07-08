@@ -21,8 +21,7 @@
   ],
   "features": [
     [
-      "jermsy:mossy_boulders",
-      "jermsy:stone_cliff"
+      "jermsy:mossy_boulders"
 	],
     [
       "minecraft:lake_lava_underground",

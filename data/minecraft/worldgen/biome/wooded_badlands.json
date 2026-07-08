@@ -31,9 +31,7 @@
       "minecraft:canyon"
   ],
   "features": [
-    [
-      "jermsy:badlands_surface"
-	],
+    [],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"

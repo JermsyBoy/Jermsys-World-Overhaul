@@ -24,8 +24,7 @@
   ],
   "features": [
     [
-      "jermsy:boulders",
-      "jermsy:stone_cliff"
+      "jermsy:boulders"
 	],
     [
       "minecraft:lake_lava_underground",
@@ -80,7 +79,7 @@
       "minecraft:patch_grass_jungle",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "jermsy:patch_pumpkin_seasonal",
+      "minecraft:patch_pumpkin",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_firefly_bush_near_water"
     ],

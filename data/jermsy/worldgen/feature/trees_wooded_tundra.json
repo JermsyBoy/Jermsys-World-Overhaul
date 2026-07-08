@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:random_selector",
+  "default": "jermsy:tundra_spruce",
+  "features": [
+    {
+      "chance": 0.1,
+      "feature": "jermsy:tundra_spruce"
+    },
+    {
+      "chance": 0.95,
+      "feature": "jermsy:wooded_tundra_bush"
+    },
+    {
+      "chance": 0.01,
+      "feature": "minecraft:fallen_spruce_tree"
+    }
+  ]
+}

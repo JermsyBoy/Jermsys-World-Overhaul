@@ -21,9 +21,7 @@
     "water_color": 937679
   },
   "features": [
-    [
-      "jermsy:stone_cliff"
-	  ],
+    [],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"

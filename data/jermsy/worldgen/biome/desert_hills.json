@@ -23,11 +23,7 @@
     "minecraft:canyon"
   ],
   "features": [
-    [
-      "jermsy:desert_terracotta",
-      "jermsy:desert_sand",
-      "jermsy:desert_dirt"
-	],
+    [],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"

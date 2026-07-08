@@ -15083,6 +15083,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.265
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -15212,36 +15242,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.265
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.375
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -16193,6 +16193,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -16661,7 +16691,7 @@
             ],
             "continentalness": [
               -0.11,
-              0.03
+              1
             ],
             "erosion": [
               -1,
@@ -16673,6 +16703,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              0.265
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -1,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -17809,10 +17869,10 @@
             ],
             "temperature": [
               -0.45,
-              -0.15
+              0.2
             ],
             "humidity": [
-              -1,
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -17852,36 +17912,6 @@
             "offset": 0
           },
           "biome": "minecraft:old_growth_pine_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.375,
-              0.05
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -18172,7 +18202,7 @@
               -0.15
             ],
             "humidity": [
-              -1,
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -18259,10 +18289,10 @@
             ],
             "temperature": [
               -0.45,
-              -0.15
+              0.2
             ],
             "humidity": [
-              -1,
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -18362,36 +18392,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
-              0.265
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -18559,10 +18559,10 @@
             ],
             "temperature": [
               -0.45,
-              -0.15
+              0.2
             ],
             "humidity": [
-              -1,
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -18662,36 +18662,6 @@
             "offset": 0
           },
           "biome": "minecraft:old_growth_pine_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
-              0.265
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              0.55
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -19463,6 +19433,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.265,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -0.2225,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -20543,6 +20543,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.265,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -21375,7 +21405,7 @@
             ],
             "erosion": [
               -0.78,
-              0.05
+              0.45
             ],
             "temperature": [
               -0.45,
@@ -21383,6 +21413,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.265,
+              0.4
+            ],
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              -0.78,
+              0.05
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -21482,36 +21542,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.265,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.78,
-              0.05
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -22853,6 +22883,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.265,
+              0.4
+            ],
+            "continentalness": [
+              0.3,
+              1
+            ],
+            "erosion": [
+              -0.2225,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -22952,36 +23012,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.265,
-              0.4
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -23453,6 +23483,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.5650000000000001
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -24203,6 +24263,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -24362,36 +24452,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -25267,6 +25327,36 @@
           "parameters": {
             "weirdness": [
               0.4,
+              0.5650000000000001
+            ],
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              -0.2225,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
               1
             ],
             "continentalness": [
@@ -25279,10 +25369,10 @@
             ],
             "temperature": [
               -0.45,
-              -0.15
+              0.2
             ],
             "humidity": [
-              -1,
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -25352,36 +25442,6 @@
             "offset": 0
           },
           "biome": "minecraft:taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -26123,6 +26183,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              1
+            ],
+            "continentalness": [
+              0.3,
+              0.8
+            ],
+            "erosion": [
+              0.05,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -26192,36 +26282,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              0.05,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -26542,6 +26602,36 @@
               0.2
             ],
             "humidity": [
+              -0.35000000000000003,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              1
+            ],
+            "continentalness": [
+              0.8,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.45
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
               -0.1,
               0.1
             ],
@@ -26587,7 +26677,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -26617,7 +26707,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -26647,7 +26737,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -26677,7 +26767,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -26707,7 +26797,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -26737,7 +26827,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -26783,6 +26873,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.5650000000000001,
+              0.93
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -27367,7 +27487,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -27397,7 +27517,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -27427,7 +27547,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -27457,7 +27577,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.11,
@@ -27487,7 +27607,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.11,
@@ -27517,7 +27637,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.11,
@@ -27547,7 +27667,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.11,
@@ -27577,7 +27697,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.11,
@@ -27607,7 +27727,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -27637,7 +27757,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -27802,6 +27922,36 @@
               -0.15
             ],
             "humidity": [
+              -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.5650000000000001,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
               -0.1,
               0.1
             ],
@@ -27847,7 +27997,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -27877,7 +28027,37 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
+            ],
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              0.05,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "jermsy:flower_fields"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.5650000000000001,
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -27907,7 +28087,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -27937,7 +28117,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -27967,7 +28147,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -27997,7 +28177,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -28027,7 +28207,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -28087,7 +28267,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.8,
@@ -28103,6 +28283,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.5650000000000001,
+              0.765
+            ],
+            "continentalness": [
+              0.8,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -28117,7 +28327,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.8,
@@ -28147,7 +28357,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.8,
@@ -28177,7 +28387,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.8,
@@ -28206,7 +28416,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28236,7 +28446,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28266,7 +28476,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28296,7 +28506,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28326,7 +28536,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28356,7 +28566,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28373,6 +28583,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.765,
+              0.93
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -28386,7 +28626,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28416,7 +28656,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28446,7 +28686,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28476,7 +28716,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28506,7 +28746,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28536,7 +28776,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28566,7 +28806,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28596,7 +28836,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28626,7 +28866,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28656,7 +28896,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28686,7 +28926,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28716,7 +28956,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28746,7 +28986,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -28776,7 +29016,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -28806,7 +29046,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -28836,7 +29076,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -28866,7 +29106,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -28896,7 +29136,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -28926,7 +29166,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -28956,7 +29196,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -28986,7 +29226,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -29016,7 +29256,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -29046,7 +29286,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -29076,7 +29316,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -29106,7 +29346,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29136,7 +29376,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29166,7 +29406,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29196,7 +29436,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29226,7 +29466,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -29256,7 +29496,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -29286,7 +29526,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -29316,7 +29556,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29346,7 +29586,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29376,7 +29616,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29406,7 +29646,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29436,7 +29676,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29466,7 +29706,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29496,7 +29736,37 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              0.8
+            ],
+            "erosion": [
+              0.05,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.765,
               1
             ],
             "continentalness": [
@@ -29526,7 +29796,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29556,7 +29826,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -29586,7 +29856,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -29616,7 +29886,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29646,7 +29916,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29676,7 +29946,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29706,7 +29976,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29736,7 +30006,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29766,7 +30036,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -29796,7 +30066,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -30375,7 +30645,7 @@
             ],
             "erosion": [
               -0.78,
-              0.05
+              0.45
             ],
             "temperature": [
               -0.45,
@@ -30383,6 +30653,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              -0.78,
+              0.05
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -30512,36 +30812,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.78,
-              0.05
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -31343,6 +31613,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              0,
+              0
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93,
+              1
+            ],
+            "continentalness": [
+              0.3,
+              1
+            ],
+            "erosion": [
+              -0.2225,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -31442,36 +31742,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -31776,15 +32046,105 @@
         {
           "parameters": {
             "weirdness": [
+              -1.1,
+              -0.85
+            ],
+            "continentalness": [
+              -0.455,
+              0.3
+            ],
+            "erosion": [
+              0.45,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.2,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:sulfur_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
               -1,
               1
             ],
             "continentalness": [
               -1.2,
+              -0.455
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0.2,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:lush_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.455,
               0.8
             ],
             "erosion": [
               -1,
+              0.45
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0.2,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:lush_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              0.3,
+              0.8
+            ],
+            "erosion": [
+              0.45,
               1
             ],
             "temperature": [
@@ -31832,6 +32192,36 @@
             "offset": 0
           },
           "biome": "minecraft:dripstone_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.85,
+              0.8500000000000001
+            ],
+            "continentalness": [
+              -0.455,
+              0.8
+            ],
+            "erosion": [
+              0.45,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              0.7,
+              1
+            ],
+            "depth": [
+              0.2,
+              0.9
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:lush_caves"
         },
         {
           "parameters": {
@@ -46913,6 +47303,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.05,
+              0.265
+            ],
+            "continentalness": [
+              0.03,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.375
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -47042,36 +47462,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              -0.05,
-              0.265
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              -1,
-              -0.375
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -48023,6 +48413,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              0.45,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -48491,7 +48911,7 @@
             ],
             "continentalness": [
               -0.11,
-              0.03
+              1
             ],
             "erosion": [
               -1,
@@ -48503,6 +48923,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.05,
+              0.265
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -1,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -49639,10 +50089,10 @@
             ],
             "temperature": [
               -0.45,
-              -0.15
+              0.2
             ],
             "humidity": [
-              -1,
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -49682,36 +50132,6 @@
             "offset": 0
           },
           "biome": "minecraft:old_growth_pine_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.375,
-              0.05
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -50002,7 +50422,7 @@
               -0.15
             ],
             "humidity": [
-              -1,
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -50089,10 +50509,10 @@
             ],
             "temperature": [
               -0.45,
-              -0.15
+              0.2
             ],
             "humidity": [
-              -1,
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -50192,36 +50612,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
-              0.265
-            ],
-            "continentalness": [
-              0.03,
-              1
-            ],
-            "erosion": [
-              0.45,
-              0.55
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -50389,10 +50779,10 @@
             ],
             "temperature": [
               -0.45,
-              -0.15
+              0.2
             ],
             "humidity": [
-              -1,
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -50492,36 +50882,6 @@
             "offset": 0
           },
           "biome": "minecraft:old_growth_pine_taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.05,
-              0.265
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              0.55
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -51293,6 +51653,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.265,
+              1
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -0.2225,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -52373,6 +52763,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.265,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              0.55
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -53205,7 +53625,7 @@
             ],
             "erosion": [
               -0.78,
-              0.05
+              0.45
             ],
             "temperature": [
               -0.45,
@@ -53213,6 +53633,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.265,
+              0.4
+            ],
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              -0.78,
+              0.05
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -53312,36 +53762,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.265,
-              0.4
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.78,
-              0.05
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -54683,6 +55103,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.265,
+              0.4
+            ],
+            "continentalness": [
+              0.3,
+              1
+            ],
+            "erosion": [
+              -0.2225,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -54782,36 +55232,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.265,
-              0.4
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -55283,6 +55703,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.5650000000000001
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -56033,6 +56483,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              0.93
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              0.55,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -56192,36 +56672,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              0.93
-            ],
-            "continentalness": [
-              -0.11,
-              1
-            ],
-            "erosion": [
-              0.55,
-              1
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -57097,6 +57547,36 @@
           "parameters": {
             "weirdness": [
               0.4,
+              0.5650000000000001
+            ],
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              -0.2225,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
               1
             ],
             "continentalness": [
@@ -57109,10 +57589,10 @@
             ],
             "temperature": [
               -0.45,
-              -0.15
+              0.2
             ],
             "humidity": [
-              -1,
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -57182,36 +57662,6 @@
             "offset": 0
           },
           "biome": "minecraft:taiga"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.2225,
-              0.05
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -57953,6 +58403,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              1
+            ],
+            "continentalness": [
+              0.3,
+              0.8
+            ],
+            "erosion": [
+              0.05,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -58022,36 +58502,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.4,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              0.05,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -58372,6 +58822,36 @@
               0.2
             ],
             "humidity": [
+              -0.35000000000000003,
+              -0.1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.4,
+              1
+            ],
+            "continentalness": [
+              0.8,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.45
+            ],
+            "temperature": [
+              -0.15,
+              0.2
+            ],
+            "humidity": [
               -0.1,
               0.1
             ],
@@ -58417,7 +58897,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -58447,7 +58927,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -58477,7 +58957,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -58507,7 +58987,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -58537,7 +59017,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -58567,7 +59047,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -58613,6 +59093,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.5650000000000001,
+              0.93
+            ],
+            "continentalness": [
+              -0.19,
+              0.03
+            ],
+            "erosion": [
+              -0.78,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -59197,7 +59707,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -59227,7 +59737,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -59257,7 +59767,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.19,
@@ -59287,7 +59797,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.11,
@@ -59317,7 +59827,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.11,
@@ -59347,7 +59857,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.11,
@@ -59377,7 +59887,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.11,
@@ -59407,7 +59917,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               -0.11,
@@ -59437,7 +59947,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -59467,7 +59977,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -59632,6 +60142,36 @@
               -0.15
             ],
             "humidity": [
+              -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.5650000000000001,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
               -0.1,
               0.1
             ],
@@ -59677,7 +60217,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -59707,7 +60247,37 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
+            ],
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              0.05,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.1
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "jermsy:flower_fields"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.5650000000000001,
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -59737,7 +60307,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -59767,7 +60337,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -59797,7 +60367,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -59827,7 +60397,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -59857,7 +60427,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.03,
@@ -59917,7 +60487,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.8,
@@ -59933,6 +60503,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.5650000000000001,
+              0.765
+            ],
+            "continentalness": [
+              0.8,
+              1
+            ],
+            "erosion": [
+              0.05,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -59947,7 +60547,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.8,
@@ -59977,7 +60577,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.8,
@@ -60007,7 +60607,7 @@
           "parameters": {
             "weirdness": [
               0.5650000000000001,
-              0.77
+              0.765
             ],
             "continentalness": [
               0.8,
@@ -60036,7 +60636,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60066,7 +60666,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60096,7 +60696,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60126,7 +60726,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60156,7 +60756,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60186,7 +60786,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60203,6 +60803,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.765,
+              0.93
+            ],
+            "continentalness": [
+              -0.19,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -60216,7 +60846,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60246,7 +60876,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60276,7 +60906,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60306,7 +60936,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60336,7 +60966,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60366,7 +60996,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60396,7 +61026,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60426,7 +61056,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60456,7 +61086,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60486,7 +61116,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60516,7 +61146,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60546,7 +61176,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60576,7 +61206,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60606,7 +61236,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -60636,7 +61266,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -60666,7 +61296,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -60696,7 +61326,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -60726,7 +61356,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -60756,7 +61386,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -60786,7 +61416,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -60816,7 +61446,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -60846,7 +61476,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -60876,7 +61506,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -60906,7 +61536,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -60936,7 +61566,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60966,7 +61596,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -60996,7 +61626,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -61026,7 +61656,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -61056,7 +61686,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -61086,7 +61716,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -61116,7 +61746,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -61146,7 +61776,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -61176,7 +61806,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -61206,7 +61836,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -61236,7 +61866,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -61266,7 +61896,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -61296,7 +61926,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -61326,7 +61956,37 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              0.8
+            ],
+            "erosion": [
+              0.05,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              -0.15
+            ],
+            "humidity": [
+              -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.765,
               1
             ],
             "continentalness": [
@@ -61356,7 +62016,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -61386,7 +62046,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -61416,7 +62076,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               1
             ],
             "continentalness": [
@@ -61446,7 +62106,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -61476,7 +62136,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -61506,7 +62166,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -61536,7 +62196,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -61566,7 +62226,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -61596,7 +62256,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -61626,7 +62286,7 @@
         {
           "parameters": {
             "weirdness": [
-              0.77,
+              0.765,
               0.93
             ],
             "continentalness": [
@@ -62205,7 +62865,7 @@
             ],
             "erosion": [
               -0.78,
-              0.05
+              0.45
             ],
             "temperature": [
               -0.45,
@@ -62213,6 +62873,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93,
+              1
+            ],
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "erosion": [
+              -0.78,
+              0.05
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -62342,36 +63032,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93,
-              1
-            ],
-            "continentalness": [
-              0.03,
-              0.3
-            ],
-            "erosion": [
-              -0.78,
-              0.05
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {
@@ -63173,6 +63833,36 @@
             ],
             "humidity": [
               -1,
+              -0.35000000000000003
+            ],
+            "depth": [
+              1,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:dappled_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.93,
+              1
+            ],
+            "continentalness": [
+              0.3,
+              1
+            ],
+            "erosion": [
+              -0.2225,
+              0.45
+            ],
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "humidity": [
+              -0.35000000000000003,
               -0.1
             ],
             "depth": [
@@ -63272,36 +63962,6 @@
             "offset": 0
           },
           "biome": "minecraft:sunflower_plains"
-        },
-        {
-          "parameters": {
-            "weirdness": [
-              0.93,
-              1
-            ],
-            "continentalness": [
-              0.3,
-              1
-            ],
-            "erosion": [
-              -0.2225,
-              0.45
-            ],
-            "temperature": [
-              -0.15,
-              0.2
-            ],
-            "humidity": [
-              -0.35000000000000003,
-              -0.1
-            ],
-            "depth": [
-              1,
-              1
-            ],
-            "offset": 0
-          },
-          "biome": "minecraft:plains"
         },
         {
           "parameters": {

@@ -24,9 +24,7 @@
     "minecraft:canyon"
   ],
   "features": [
-    [
-      "jermsy:ice_cliff"
-	],
+    [],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"
