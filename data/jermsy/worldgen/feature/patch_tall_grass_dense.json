@@ -1,12 +1,8 @@
 {
   "type": "minecraft:simple_block",
+  "schedule_tick": true,
   "to_place": {
     "type": "minecraft:simple_state_provider",
-    "state": {
-      "Name": "minecraft:tall_grass",
-      "Properties": {
-        "half": "lower"
-      }
-    }
+    "state": "minecraft:tall_grass"
   }
 }

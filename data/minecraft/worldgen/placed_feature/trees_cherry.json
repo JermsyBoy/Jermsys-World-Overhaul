@@ -1,5 +1,5 @@
 {
-  "feature": "minecraft:cherry_bees_005",
+  "feature": "minecraft:trees_cherry",
   "placement": [
     {
       "type": "minecraft:count",
@@ -8,7 +8,7 @@
         "distribution": [
           {
             "data": 10,
-            "weight": 10
+            "weight": 9
           },
           {
             "data": 11,
@@ -35,12 +35,7 @@
       "type": "minecraft:block_predicate_filter",
       "predicate": {
         "type": "minecraft:would_survive",
-        "state": {
-          "Name": "minecraft:cherry_sapling",
-          "Properties": {
-            "stage": "0"
-          }
-        }
+        "state": "minecraft:cherry_sapling"
       }
     }
   ]

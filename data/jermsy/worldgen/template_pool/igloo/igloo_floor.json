@@ -6,7 +6,7 @@
 		"element": {
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
-				"processors": "jermsy:unwaterlog",
+				"processors": "minecraft:empty",
 				"location": "jermsy:igloo/igloo_floor_1"
 		},
 		"weight": 1
@@ -15,7 +15,7 @@
 		"element": {
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
-				"processors": "jermsy:unwaterlog",
+				"processors": "minecraft:empty",
 				"location": "jermsy:igloo/igloo_floor_2"
 		},
 		"weight": 1

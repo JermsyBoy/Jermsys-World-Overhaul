@@ -80,12 +80,11 @@
       "minecraft:spring_lava"
     ],
     [
+      "minecraft:trees_cherry",
       "minecraft:glow_lichen",
       "minecraft:patch_tall_grass_2",
       "minecraft:patch_grass_plain",
-      "minecraft:flower_cherry",
-      "jermsy:cherry_grove_bush",
-      "minecraft:trees_cherry"
+      "minecraft:flower_cherry"
     ],
     [
       "minecraft:freeze_top_layer"

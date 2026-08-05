@@ -4,16 +4,12 @@
     "type": "minecraft:weighted_state_provider",
     "entries": [
       {
-        "data": {
-          "Name": "minecraft:orange_tulip"
-        },
+        "data": "minecraft:orange_tulip",
         "weight": 2
       },
       {
-        "data": {
-          "Name": "minecraft:dandelion"
-        },
-        "weight": 2
+        "data": "minecraft:dandelion",
+        "weight": 1
       }
     ]
   }

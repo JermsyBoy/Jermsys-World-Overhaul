@@ -2,9 +2,7 @@
   "type": "minecraft:lake",
   "barrier": {
     "type": "minecraft:simple_state_provider",
-    "state": {
-      "Name": "minecraft:clay"
-    }
+    "state": "minecraft:clay"
   },
   "can_place_feature": {
     "type": "minecraft:true"
@@ -25,11 +23,6 @@
   },
   "fluid": {
     "type": "minecraft:simple_state_provider",
-    "state": {
-      "Name": "minecraft:water",
-      "Properties": {
-        "level": "0"
-      }
-    }
+    "state": "minecraft:water"
   }
 }

@@ -3,35 +3,19 @@
   "to_place": {
     "type": "minecraft:noise_provider",
     "noise": {
-      "amplitudes": [
-        1.0
-      ],
-      "firstOctave": 0
+      "base_amplitude": 0.955388882960065,
+      "base_octave": 0
     },
     "scale": 0.020833334,
     "seed": 2345,
     "states": [
-      {
-        "Name": "minecraft:allium"
-      },
-      {
-        "Name": "minecraft:pink_tulip"
-      },
-      {
-        "Name": "minecraft:cornflower"
-      },
-      {
-        "Name": "minecraft:white_tulip"
-      },
-      {
-        "Name": "minecraft:dandelion"
-      },
-      {
-        "Name": "minecraft:orange_tulip"
-      },
-      {
-        "Name": "minecraft:red_tulip"
-      }
+      "minecraft:allium",
+      "minecraft:pink_tulip",
+      "minecraft:cornflower",
+      "minecraft:white_tulip",
+      "minecraft:dandelion",
+      "minecraft:orange_tulip",
+      "minecraft:red_tulip"
     ]
   }
 }

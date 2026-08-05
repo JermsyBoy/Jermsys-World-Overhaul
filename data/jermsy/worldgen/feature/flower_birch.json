@@ -3,29 +3,17 @@
   "to_place": {
     "type": "minecraft:noise_provider",
     "noise": {
-      "amplitudes": [
-        1.0
-      ],
-      "firstOctave": 0
+      "base_amplitude": 0.955388882960065,
+      "base_octave": 0
     },
     "scale": 0.020833334,
     "seed": 2345,
     "states": [
-      {
-        "Name": "minecraft:cornflower"
-      },
-      {
-        "Name": "minecraft:allium"
-      },
-      {
-        "Name": "minecraft:lily_of_the_valley"
-      },
-      {
-        "Name": "minecraft:azure_bluet"
-      },
-      {
-        "Name": "minecraft:short_grass"
-      }
+      "minecraft:cornflower",
+      "minecraft:allium",
+      "minecraft:lily_of_the_valley",
+      "minecraft:azure_bluet",
+      "minecraft:short_grass"
     ]
   }
 }
